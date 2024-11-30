@@ -6,7 +6,7 @@
         <css/>
         <display_field>routine</display_field>
         <field_list/>
-        <filter table="x_1533383_workout_workout">stateIN4,2^gym_clientDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item display_value="4,2" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="4,2"/>
+        <filter table="x_1533383_workout_workout">state-2^gym_clientDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
             <item endquery="false" field="gym_client" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
         </filter>
         <glyph>user</glyph>
@@ -25,14 +25,14 @@
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-11-28 02:51:53</sys_created_on>
         <sys_id>fbb3354383c6d21038eaf855eeaad3e8</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_update_name>sp_instance_vlist_fbb3354383c6d21038eaf855eeaad3e8</sys_update_name>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-11-29 01:15:02</sys_updated_on>
+        <sys_updated_on>2024-11-30 03:21:00</sys_updated_on>
         <table>x_1533383_workout_workout</table>
         <title/>
         <url/>
