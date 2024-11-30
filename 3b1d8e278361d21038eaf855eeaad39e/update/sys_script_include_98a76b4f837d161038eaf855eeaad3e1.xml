@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_1533383_workout.WorkOutMasterUTILAJAX</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>WorkOutMasterUTILAJAX</name>
+        <script><![CDATA[var WorkOutMasterUTILAJAX = Class.create();
+WorkOutMasterUTILAJAX.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+    fetchExercises: function() {
+        var dataArr = [];
+        var exerciseRep = {};
+        var routineId = this.getParameter('sysparm_routineId');
+		
+        if (routineId) {
+			return;
+        }
+        var gr = new GlideRecord('x_1533383_workout_routine');
+        gr.get(routineId);
+
+        try {
+            var exerciseArray = gr.getValue('exercise_list').split(',');
+          //  g_form.getInfoMessage(exerciseArray);
+            for (var i = 0; i < exerciseArray.length; i++) {
+
+                exerciseRep = {
+                    exercise: this.exerciseArray[i]
+                };
+           //     g_form.getInfoMessage(this.exerciseArray[i]);
+                dataArr.push(exerciseRep);
+            }
+        } catch (err) {
+            g_form.getInfoMessage(err);
+        }
+        return JSON.stringify(dataArr);
+
+    },
+	fetchExercisesString: function() {
+       
+        var routineId = this.getParameter('sysparm_routineId');
+        if (routineId) {
+			return;
+        }
+        var gr = new GlideRecord("x_1533383_workout_routine");
+        gr.get(routineId);
+
+		var exerciseList = 'd54a555883391a1038eaf855eeaad330,008a995883391a1038eaf855eeaad325,817c995883391a1038eaf855eeaad328,d39dc09783b1561038eaf855eeaad328'; // gr.getValue('exercise_list');
+
+		return exerciseList;
+	},
+    type: 'WorkOutMasterUTILAJAX'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-16 01:03:42</sys_created_on>
+        <sys_id>98a76b4f837d161038eaf855eeaad3e1</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>WorkOutMasterUTILAJAX</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>sys_script_include_98a76b4f837d161038eaf855eeaad3e1</sys_update_name>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-18 20:19:40</sys_updated_on>
+    </sys_script_include>
+</record_update>

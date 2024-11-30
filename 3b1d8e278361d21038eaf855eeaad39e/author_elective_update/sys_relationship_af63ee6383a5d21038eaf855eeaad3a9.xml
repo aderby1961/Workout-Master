@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="DELETE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_1533383_workout_routine</basic_apply_to>
+        <basic_query_from>x_1533383_workout_exercise</basic_query_from>
+        <insert_callback/>
+        <name>Associated Exercises</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+
+})(current, parent);]]></query_with>
+        <reference_field/>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 23:08:41</sys_created_on>
+        <sys_id>af63ee6383a5d21038eaf855eeaad3a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Associated Exercises</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>sys_relationship_af63ee6383a5d21038eaf855eeaad3a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-04 23:08:41</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="DELETE" query="documentkey=af63ee6383a5d21038eaf855eeaad3a9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</application>
+        <file_path/>
+        <instance_id>f0bdd84f1b3c8ed432182f8dee4bcb56</instance_id>
+        <instance_name>dev240281</instance_name>
+        <name>sys_relationship_af63ee6383a5d21038eaf855eeaad3a9</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_relationship"&gt;&lt;sys_relationship action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;apply_to/&gt;&lt;basic_apply_to&gt;x_1533383_workout_routine&lt;/basic_apply_to&gt;&lt;basic_query_from&gt;x_1533383_workout_exercise&lt;/basic_query_from&gt;&lt;insert_callback/&gt;&lt;name&gt;Associated Exercises&lt;/name&gt;&lt;query_from/&gt;&lt;query_with&gt;&lt;![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+
+})(current, parent);]]&gt;&lt;/query_with&gt;&lt;reference_field/&gt;&lt;related_list/&gt;&lt;simple_reference&gt;false&lt;/simple_reference&gt;&lt;sys_class_name&gt;sys_relationship&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-11-04 23:08:41&lt;/sys_created_on&gt;&lt;sys_id&gt;af63ee6383a5d21038eaf855eeaad3a9&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Associated Exercises&lt;/sys_name&gt;&lt;sys_package display_value="Workout Master" source="x_1533383_workout"&gt;3b1d8e278361d21038eaf855eeaad39e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Workout Master"&gt;3b1d8e278361d21038eaf855eeaad39e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_relationship_af63ee6383a5d21038eaf855eeaad3a9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-11-04 23:08:41&lt;/sys_updated_on&gt;&lt;/sys_relationship&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=af63ee6383a5d21038eaf855eeaad3a9"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-669509823</payload_hash>
+        <record_name>Associated Exercises</record_name>
+        <reverted_from/>
+        <source>b31d8e278361d21038eaf855eeaad3a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 23:08:41</sys_created_on>
+        <sys_id>4a1462a383a5d21038eaf855eeaad3c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192f970080c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-04 23:08:41</sys_updated_on>
+        <type>Relationship</type>
+        <update_guid>4e1462a3b7a5d2107ed2b46ddedea0c5</update_guid>
+        <update_guid_history>4e1462a3b7a5d2107ed2b46ddedea0c5:-669509823</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-05 06:02:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_relationship">sys_relationship</sys_db_object>
+        <sys_id>0d1c529a636d43d084a138c8b1e82900</sys_id>
+        <sys_metadata>af63ee6383a5d21038eaf855eeaad3a9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Associated Exercises</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_parent display_value="Routine">dd5f0e2f83a1d21038eaf855eeaad30e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_scope_delete display_value="">00624512c1ed44ba801663119567a759</sys_scope_delete>
+        <sys_update_name>sys_relationship_af63ee6383a5d21038eaf855eeaad3a9</sys_update_name>
+        <sys_update_version display_value="sys_relationship_af63ee6383a5d21038eaf855eeaad3a9">4a1462a383a5d21038eaf855eeaad3c6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-05 06:02:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

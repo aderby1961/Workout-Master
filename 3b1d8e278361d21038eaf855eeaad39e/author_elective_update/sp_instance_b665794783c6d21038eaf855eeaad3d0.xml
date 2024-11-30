@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">e263794383c6d21038eaf855eeaad380</sp_column>
+        <sp_widget display_value="Calendar UI">54a96e5f432831108655526e4bb8f273</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-28 02:59:12</sys_created_on>
+        <sys_id>b665794783c6d21038eaf855eeaad3d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>sp_instance_b665794783c6d21038eaf855eeaad3d0</sys_update_name>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-28 02:59:12</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=b665794783c6d21038eaf855eeaad3d0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</application>
+        <file_path/>
+        <instance_id>f0bdd84f1b3c8ed432182f8dee4bcb56</instance_id>
+        <instance_name>dev240281</instance_name>
+        <name>sp_instance_b665794783c6d21038eaf855eeaad3d0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="2">e263794383c6d21038eaf855eeaad380</sp_column><sp_widget display_value="Calendar UI">54a96e5f432831108655526e4bb8f273</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>aderbyshire</sys_created_by><sys_created_on>2024-11-28 02:59:12</sys_created_on><sys_id>b665794783c6d21038eaf855eeaad3d0</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package><sys_policy/><sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope><sys_update_name>sp_instance_b665794783c6d21038eaf855eeaad3d0</sys_update_name><sys_updated_by>aderbyshire</sys_updated_by><sys_updated_on>2024-11-28 02:59:12</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=b665794783c6d21038eaf855eeaad3d0"/></record_update>]]></payload>
+        <payload_hash>1071717933</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>be249fc88339d61038eaf855eeaad3e5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-28 02:59:12</sys_created_on>
+        <sys_id>8f65794783c6d21038eaf855eeaad3d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19370b557070000001</sys_recorded_at>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-28 02:59:12</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>c3657947a8c6d210eaffaafe421880d2</update_guid>
+        <update_guid_history>c3657947a8c6d210eaffaafe421880d2:1071717933</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">4adb7583830ad21038eaf855eeaad329</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-28 03:27:16</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>05b7d50b80e540688167f228edadcc29</sys_id>
+        <sys_metadata>b665794783c6d21038eaf855eeaad3d0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_scope_delete display_value="">00624512c1ed44ba801663119567a759</sys_scope_delete>
+        <sys_update_name>sp_instance_b665794783c6d21038eaf855eeaad3d0</sys_update_name>
+        <sys_update_version display_value="sp_instance_b665794783c6d21038eaf855eeaad3d0">8f65794783c6d21038eaf855eeaad3d2</sys_update_version>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-28 03:27:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

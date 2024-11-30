@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6021755483f91a1038eaf855eeaad3fa" extends="x_1533383_workout_exercise" label="Exercise Reps" max_length="40" name="x_1533383_workout_exercise_rep" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Effort/Intensity" max_length="40" name="effort" type="string">
+            <choice>
+                <element inactive_on_update="false" label="High" value="High"/>
+                <element inactive_on_update="false" label="Medium" value="Medium"/>
+                <element inactive_on_update="false" label="Low" sequence="0" value="low"/>
+            </choice>
+        </element>
+        <element label="Exercise Name" mandatory="true" max_length="32" name="exercise" reference="x_1533383_workout_exercise" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Level" max_length="40" name="level" type="integer"/>
+        <element label="Order" max_length="40" name="order" type="integer"/>
+        <element attributes="encode_utf8=false" label="Gym client" mandatory="true" max_length="32" name="person" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Reps" max_length="40" name="reps" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reps (Actual)" max_length="40" name="reps_actual" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Set" max_length="40" name="set" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="state" choice_table="x_1533383_workout_workout" label="State" max_length="40" name="state" type="string">
+            <choice/>
+        </element>
+        <element label="Time (Minutes)" max_length="40" name="time_minutes" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Weight" max_length="40" name="weight" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Weight (Actual)" max_length="40" name="weight_actual" type="string"/>
+        <element attributes="encode_utf8=false" label="Workout" mandatory="true" max_length="32" name="workout" reference="x_1533383_workout_workout" type="reference"/>
+        <index name="index">
+            <element name="exercise"/>
+        </index>
+        <index name="index2">
+            <element name="person"/>
+        </index>
+        <index name="index3">
+            <element name="workout"/>
+        </index>
+    </element>
+</database>

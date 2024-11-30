@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <display_field>routine</display_field>
+        <field_list/>
+        <filter table="x_1533383_workout_workout">gym_clientDYNAMIC90d1921e5f510100a9ad2572f2b477fe^state=4<item endquery="false" field="gym_client" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item display_value="Scheduled" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="4"/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">10eb3d43830ad21038eaf855eeaad363</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Simple List">5b255672cb03020000f8d856634c9c28</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-29 01:15:37</sys_created_on>
+        <sys_id>9747e6d7834e121038eaf855eeaad330</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>sp_instance_vlist_9747e6d7834e121038eaf855eeaad330</sys_update_name>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-29 01:28:01</sys_updated_on>
+        <table>x_1533383_workout_workout</table>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"always_show": {
+		"value": "",
+		"displayValue": ""
+	},
+	"panel_body_height": {
+		"value": "",
+		"displayValue": ""
+	},
+	"image_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "schedule_date,gym_client,location,routine,state",
+		"displayValue": "schedule_date,gym_client,location,routine,state"
+	},
+	"rounded_images": {
+		"value": "",
+		"displayValue": ""
+	},
+	"list_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"disable_record_watcher": {
+		"value": "",
+		"displayValue": ""
+	},
+	"filter_acls": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="delete_multiple" query="documentkey=9747e6d7834e121038eaf855eeaad330"/>
+</record_update>

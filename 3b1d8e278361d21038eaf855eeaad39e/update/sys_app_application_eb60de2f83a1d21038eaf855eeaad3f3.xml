@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint>Track workouts, Add routines, exercises</hint>
+        <name/>
+        <order/>
+        <roles>x_1533383_workout.workout_admin,admin,itil</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 21:42:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eb60de2f83a1d21038eaf855eeaad3f3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Workout Master</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>sys_app_application_eb60de2f83a1d21038eaf855eeaad3f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-05 02:49:42</sys_updated_on>
+        <title>Workout Master</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

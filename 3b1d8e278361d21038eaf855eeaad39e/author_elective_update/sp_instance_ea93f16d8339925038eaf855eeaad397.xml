@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>tasks</glyph>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">6693f16d8339925038eaf855eeaad392</sp_column>
+        <sp_widget display_value="KB News">ad2326a45b110200e23dc7ad31f91a1e</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-11 00:44:40</sys_created_on>
+        <sys_id>ea93f16d8339925038eaf855eeaad397</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>News</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>sp_instance_ea93f16d8339925038eaf855eeaad397</sys_update_name>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-11 19:21:27</sys_updated_on>
+        <title>News</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=ea93f16d8339925038eaf855eeaad397"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</application>
+        <file_path/>
+        <instance_id>f0bdd84f1b3c8ed432182f8dee4bcb56</instance_id>
+        <instance_name>dev240281</instance_name>
+        <name>sp_instance_ea93f16d8339925038eaf855eeaad397</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph>tasks</glyph><id/><order>2</order><roles/><short_description/><size>md</size><sp_column display_value="1">6693f16d8339925038eaf855eeaad392</sp_column><sp_widget display_value="KB News">ad2326a45b110200e23dc7ad31f91a1e</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>aderbyshire</sys_created_by><sys_created_on>2024-11-11 00:44:40</sys_created_on><sys_id>ea93f16d8339925038eaf855eeaad397</sys_id><sys_mod_count>3</sys_mod_count><sys_name>News</sys_name><sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package><sys_policy/><sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope><sys_update_name>sp_instance_ea93f16d8339925038eaf855eeaad397</sys_update_name><sys_updated_by>aderbyshire</sys_updated_by><sys_updated_on>2024-11-11 19:21:27</sys_updated_on><title>News</title><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=ea93f16d8339925038eaf855eeaad397"/></record_update>]]></payload>
+        <payload_hash>296936008</payload_hash>
+        <record_name>News</record_name>
+        <reverted_from/>
+        <source>be249fc88339d61038eaf855eeaad3e5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-11 19:21:27</sys_created_on>
+        <sys_id>2d33393583f5165038eaf855eeaad30f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1931cac80750000001</sys_recorded_at>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-11 19:21:27</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>2533393515f516506c33bcc9f533b40f</update_guid>
+        <update_guid_history>2533393515f516506c33bcc9f533b40f:296936008,3f23b535bff51650f17af39faf9af6c8:-177041913,0e23753558f51650da09df0e7b86ae9f:296936008,a293f16d7c399250b24dfebefde2ff99:-177041913</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="News">d1537df183f5165038eaf855eeaad31a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-11 19:21:58</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>2eeab51b5ec64c1ea1f997c896c6a3e1</sys_id>
+        <sys_metadata>ea93f16d8339925038eaf855eeaad397</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>News</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_scope_delete display_value="">00624512c1ed44ba801663119567a759</sys_scope_delete>
+        <sys_update_name>sp_instance_ea93f16d8339925038eaf855eeaad397</sys_update_name>
+        <sys_update_version display_value="sp_instance_ea93f16d8339925038eaf855eeaad397">2d33393583f5165038eaf855eeaad30f</sys_update_version>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-11 19:21:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

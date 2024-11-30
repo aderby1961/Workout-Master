@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_1533383_workout.WorkOutMasterUTIL</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>WorkOutMasterUTIL</name>
+        <script><![CDATA[var WorkOutMasterUTIL = Class.create();
+WorkOutMasterUTIL.prototype = {
+    initialize: function() {
+        this.strengthSets = gs.getProperty('x_1533383_workout.workout.master.strength.sets');
+    },
+    fetchExercisesString: function(routineId) {
+        if (routineId) {
+            return;
+        }
+        var getExercise = new GlideRecord('x_1533383_workout_routine');
+        getExercise.get(routineId);
+
+        var exerciseList = getExercise.getValue('sys_id');
+
+        return exerciseList.toString();
+    },
+    //x_1533383_workout.workout.master.strength.sets gs.
+    createWorkoutReps: function(curr, routineID) {
+        if (gs.nil(routineID)) {
+            return;
+        }
+        var getWorkout = new GlideRecord('x_1533383_workout_routine');
+        getWorkout.get(routineID);
+
+        var exerciseArray = curr.getValue('exercise_list').split(',');
+        for (var i = 1; i <= exerciseArray.length; i++) {
+
+            exerciseRep = {
+                exercise: exerciseArray[i],
+                workout: curr.getValue('workout'),
+                person: curr.getValue('person'),
+                sets: this.strengthSets,
+                order: i
+            };
+            this._createExerciseRep(JSON.stringify(exerciseRep));
+        }
+    },
+    /**
+       	* Description: 
+       	* Parameters: 
+    	      curr 
+    	      workoutId: sys_id of current workout record
+       	* Returns:
+     */
+    processWorkoutRPCreate: function(curr, workoutId, theLoop) {
+        // gs.addErrorMessage(curr.variables.create_exercise_reps_on_new_workout.getRowCount());
+        var variables = curr.variables.getElements();
+        for (var i = 0; i < variables.length; i++) {
+            var question = variables[i].getQuestion();
+            gs.log(question.getLabel() + ":" + question.getValue())
+        }
+        var exerId = '618fbac18375de1038eaf855eeaad35a';
+        var order = 1;
+        var woOrder = 1;
+        for (var i = 0; i < theLoop; i++) {
+            var saveRep = new GlideRecord('x_1533383_workout_exercise_rep');
+            saveRep.initialize();
+            saveRep.setValue('exercise', exerId);
+            saveRep.setValue('workout', workoutId);
+            saveRep.setValue('order', order);
+            saveRep.insert();
+        }
+
+    },
+    /**
+      	* Description: 
+    	 
+    	* Parameters: 
+    	 
+    	* Returns:
+    	*/
+    _createExerciseRep: function(gr) {
+        if (gs.nil(gr)) {
+            return;
+        }
+        gs.addInfoMessage('Calling the sub function');
+        for (var setLoop = 1; setLoop <= gr.sets; setLoop++) {
+
+            var saveRep = new GlideRecord('x_1533383_workout_exercise_rep');
+
+            saveRep.initialize();
+            saveRep.setValue('exercise', gr.exercise);
+            saveRep.setValue('workout', gr.workout);
+            saveRep.setValue('order', gr.order);
+            saveRep.setValue('wo_order', gr.wo_order);
+
+            saveRep.insert();
+        }
+
+
+    },
+    type: 'WorkOutMasterUTIL'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-07 23:12:37</sys_created_on>
+        <sys_id>ef91ca6c83f99a1038eaf855eeaad384</sys_id>
+        <sys_mod_count>39</sys_mod_count>
+        <sys_name>WorkOutMasterUTIL</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>sys_script_include_ef91ca6c83f99a1038eaf855eeaad384</sys_update_name>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-18 06:50:06</sys_updated_on>
+    </sys_script_include>
+</record_update>

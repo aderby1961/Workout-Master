@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="DELETE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Workout Catalog">20c4922d833d925038eaf855eeaad38a</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-11 03:57:58</sys_created_on>
+        <sys_id>53cfda2183bd925038eaf855eeaad3a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Execise</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>sc_category_53cfda2183bd925038eaf855eeaad3a0</sys_update_name>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-11 03:57:58</sys_updated_on>
+        <title>Execise</title>
+    </sc_category>
+    <sys_translated_text action="DELETE" query="documentkey=53cfda2183bd925038eaf855eeaad3a0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</application>
+        <file_path/>
+        <instance_id>f0bdd84f1b3c8ed432182f8dee4bcb56</instance_id>
+        <instance_name>dev240281</instance_name>
+        <name>sc_category_53cfda2183bd925038eaf855eeaad3a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description/><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog display_value="Workout Catalog">20c4922d833d925038eaf855eeaad38a</sc_catalog><sys_class_name>sc_category</sys_class_name><sys_created_by>aderbyshire</sys_created_by><sys_created_on>2024-11-11 03:57:58</sys_created_on><sys_id>53cfda2183bd925038eaf855eeaad3a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Execise</sys_name><sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package><sys_policy/><sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope><sys_update_name>sc_category_53cfda2183bd925038eaf855eeaad3a0</sys_update_name><sys_updated_by>aderbyshire</sys_updated_by><sys_updated_on>2024-11-11 03:57:58</sys_updated_on><title>Execise</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=53cfda2183bd925038eaf855eeaad3a0"/></record_update>]]></payload>
+        <payload_hash>1715716260</payload_hash>
+        <record_name>Execise</record_name>
+        <reverted_from/>
+        <source>be249fc88339d61038eaf855eeaad3e5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-11 03:57:58</sys_created_on>
+        <sys_id>82df566183bd925038eaf855eeaad391</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193195f08260000001</sys_recorded_at>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-11 03:57:58</sys_updated_on>
+        <type>Category</type>
+        <update_guid>c6df5661f8bd9250ade136364bdd3990</update_guid>
+        <update_guid_history>c6df5661f8bd9250ade136364bdd3990:1715716260</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Execise">d08079e3837dd61038eaf855eeaad3b9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-17 05:38:59</sys_created_on>
+        <sys_db_object display_value="" name="sc_category">sc_category</sys_db_object>
+        <sys_id>19a003b7c6084590975f8b23efa71100</sys_id>
+        <sys_metadata>53cfda2183bd925038eaf855eeaad3a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Execise</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_scope_delete display_value="">00624512c1ed44ba801663119567a759</sys_scope_delete>
+        <sys_update_name>sc_category_53cfda2183bd925038eaf855eeaad3a0</sys_update_name>
+        <sys_update_version display_value="sc_category_53cfda2183bd925038eaf855eeaad3a0">82df566183bd925038eaf855eeaad391</sys_update_version>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-17 05:38:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

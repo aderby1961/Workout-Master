@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="53cec22b83a1d21038eaf855eeaad32e" label="Exercise" max_length="40" name="x_1533383_workout_exercise" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="body_focus" choice_table="x_1533383_workout_routine" label="Body Focus" mandatory="true" max_length="40" name="body_focus" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Gluts" sequence="0" value="Gluts"/>
+                <element inactive_on_update="false" label="Overall" sequence="0" value="overall"/>
+                <element inactive_on_update="false" label="Core" sequence="1" value="core"/>
+                <element inactive_on_update="false" label="Glutes" sequence="2" value="Glutes"/>
+                <element inactive_on_update="false" label="Abs" sequence="3" value="Abs"/>
+                <element inactive_on_update="false" label="Legs" sequence="4" value="Legs"/>
+                <element inactive_on_update="false" label="Arm" sequence="5" value="arm"/>
+                <element inactive_on_update="false" label="Biceps" sequence="6" value="Biceps"/>
+                <element inactive_on_update="false" label="Triceps" sequence="7" value="triceps"/>
+                <element inactive_on_update="false" label="Chest" sequence="8" value="Chest"/>
+                <element inactive_on_update="false" label="Shoulders" sequence="9" value="Shoulders"/>
+                <element inactive_on_update="false" label="Back" sequence="10" value="back"/>
+                <element inactive_on_update="false" label="Upper Back" sequence="11" value="upper_back"/>
+                <element inactive_on_update="false" label="Lats" sequence="12" value="lats"/>
+            </choice>
+        </element>
+        <element display="true" label="Exercise Name" mandatory="true" max_length="250" name="exercise_name" type="string_full_utf8"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" dependent="body_focus" dependent_on_field="body_focus" label="Isolated Body part" max_length="40" name="isolated_body_part" type="choice" use_dependent_field="true">
+            <choice/>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Standard Rep" mandatory="true" max_length="255" name="standard_rep" type="string_full_utf8"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="u_type" choice_table="x_1533383_workout_routine" label="Type" mandatory="true" max_length="40" name="type" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="-- New choice --" sequence="0" value="-- New choice --"/>
+                <element inactive_on_update="false" label="Cardio" sequence="0" value="cardio"/>
+                <element inactive_on_update="false" label="Core" sequence="1" value="core"/>
+                <element inactive_on_update="false" label="Strength" sequence="2" value="strength"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

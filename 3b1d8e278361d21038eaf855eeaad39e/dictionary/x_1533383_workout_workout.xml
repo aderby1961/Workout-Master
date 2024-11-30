@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="calendar_elements=routine;state" db_object_id="e88e026783a1d21038eaf855eeaad3ad" extends="task" label="Workout" max_length="40" name="x_1533383_workout_workout" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Gym Client" mandatory="true" max_length="32" name="gym_client" reference="sys_user" type="reference"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" dynamic_creation="true" label="Personal Trainer" max_length="32" name="personal_trainer" reference="sys_user" reference_floats="true" type="reference"/>
+        <element attributes="encode_utf8=false" label="Routine" mandatory="true" max_length="32" name="routine" reference="x_1533383_workout_routine" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Schedule Date" mandatory="true" max_length="40" name="schedule_date" type="calendar_date_time"/>
+        <element label="Workout Length" max_length="40" name="workout_length" type="integer"/>
+    </element>
+</database>

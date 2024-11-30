@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="Workout Stats - New Tab">82d6f4ec83b19a1038eaf855eeaad3cc</legacy_page>
+        <name>Workout Stats - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-07 17:45:17</sys_created_on>
+        <sys_id>8ad6f4ec83b19a1038eaf855eeaad3cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workout Stats - New Tab</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>sys_grid_canvas_8ad6f4ec83b19a1038eaf855eeaad3cd</sys_update_name>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-07 17:45:17</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

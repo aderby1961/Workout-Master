@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_parameter_screen">
+    <sys_sg_parameter_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <available_offline>false</available_offline>
+        <cancel_label>Cancel</cancel_label>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <header_only_on_first_page>false</header_only_on_first_page>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon/>
+        <name>New input form screen</name>
+        <next_label>Next</next_label>
+        <pagination_type>all</pagination_type>
+        <prev_label>Previous</prev_label>
+        <reset_after_submit>false</reset_after_submit>
+        <resume>false</resume>
+        <roles_override/>
+        <submit_label>Submit</submit_label>
+        <sys_class_name>sys_sg_parameter_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 20:46:06</sys_created_on>
+        <sys_id>ff66db628306121038eaf855eeaad377</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New input form screen</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>sys_sg_parameter_screen_ff66db628306121038eaf855eeaad377</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 20:46:06</sys_updated_on>
+        <type display_value="">string</type>
+        <view_config/>
+    </sys_sg_parameter_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=ff66db628306121038eaf855eeaad377"/>
+</record_update>

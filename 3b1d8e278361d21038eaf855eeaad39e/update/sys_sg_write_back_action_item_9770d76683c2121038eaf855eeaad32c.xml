@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit</name>
+        <parameter_screen/>
+        <query_condition table="x_1533383_workout_exercise_rep">sys_idSTARTSWITH{{sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 20:20:07</sys_created_on>
+        <sys_id>9770d76683c2121038eaf855eeaad32c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_9770d76683c2121038eaf855eeaad32c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 20:20:07</sys_updated_on>
+        <table>x_1533383_workout_exercise_rep</table>
+        <template>active={{Workout Exercise reps active}}^body_focus={{Workout Exercise reps body_focus}}^effort={{Workout Exercise reps effort}}^exercise={{Workout Exercise reps exercise}}^exercise_name={{Workout Exercise reps exercise_name}}^isolated_body_part={{Workout Exercise reps isolated_body_part}}^level={{Workout Exercise reps level}}^number={{Workout Exercise reps number}}^order={{Workout Exercise reps order}}^person={{Workout Exercise reps person}}^reps={{Workout Exercise reps reps}}^set={{Workout Exercise reps set}}^time_minutes={{Workout Exercise reps time_minutes}}^type={{Workout Exercise reps type}}^weight={{Workout Exercise reps weight}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=9770d76683c2121038eaf855eeaad32c"/>
+</record_update>

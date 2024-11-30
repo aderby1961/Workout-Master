@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Create Workout">39db4d848339961038eaf855eeaad3bb</sc_cat_item>
+        <sc_catalog display_value="Workout Catalog">20c4922d833d925038eaf855eeaad38a</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-11 03:58:59</sys_created_on>
+        <sys_id>cd10666183bd925038eaf855eeaad3c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workout Catalog.Create Workout</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_cd10666183bd925038eaf855eeaad3c9</sys_update_name>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-11 03:58:59</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

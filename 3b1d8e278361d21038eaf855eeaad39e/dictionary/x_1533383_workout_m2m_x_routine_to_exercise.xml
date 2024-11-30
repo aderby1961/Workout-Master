@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2e10af27836dd21038eaf855eeaad324" label="x_1533383_workout_m2m_Routines_Exercises" max_length="40" name="x_1533383_workout_m2m_x_routine_to_exercise" type="collection">
+        <element attributes="encode_utf8=false" label="Exercises" max_length="32" name="x_1533383_workout_exercise" reference="x_1533383_workout_exercise" type="reference"/>
+        <element attributes="encode_utf8=false" label="Routines" max_length="32" name="x_1533383_workout_routine" reference="x_1533383_workout_routine" type="reference"/>
+        <index name="index">
+            <element name="x_1533383_workout_exercise"/>
+        </index>
+        <index name="index2">
+            <element name="x_1533383_workout_routine"/>
+        </index>
+    </element>
+</database>

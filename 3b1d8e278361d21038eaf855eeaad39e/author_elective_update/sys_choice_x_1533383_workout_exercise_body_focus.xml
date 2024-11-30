@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="body_focus" table="x_1533383_workout_exercise" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>body_focus</element>
+            <name>x_1533383_workout_exercise</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-07 01:11:51</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>body_focus</sys_name>
+            <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+            <sys_update_name>sys_choice_x_1533383_workout_exercise_body_focus</sys_update_name>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-07 01:11:51</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>body_focus</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Gluts</label>
+            <language>en</language>
+            <name>x_1533383_workout_exercise</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-07 01:11:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-16 04:37:58</sys_updated_on>
+            <value>Gluts</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>body_focus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Overall</label>
+            <language>en</language>
+            <name>x_1533383_workout_exercise</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-07 01:11:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-16 04:37:58</sys_updated_on>
+            <value>overall</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>body_focus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Core</label>
+            <language>en</language>
+            <name>x_1533383_workout_exercise</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-16 04:37:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-16 04:37:58</sys_updated_on>
+            <value>core</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>body_focus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Glutes</label>
+            <language>en</language>
+            <name>x_1533383_workout_exercise</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-16 04:37:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-16 04:37:58</sys_updated_on>
+            <value>Glutes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>body_focus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Abs</label>
+            <language>en</language>
+            <name>x_1533383_workout_exercise</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-07 01:11:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-07 01:11:51</sys_updated_on>
+            <value>Abs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>body_focus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legs</label>
+            <language>en</language>
+            <name>x_1533383_workout_exercise</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-07 01:11:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-16 04:37:58</sys_updated_on>
+            <value>Legs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>body_focus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Arm</label>
+            <language>en</language>
+            <name>x_1533383_workout_exercise</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-16 04:37:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-16 04:37:58</sys_updated_on>
+            <value>arm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>body_focus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Biceps</label>
+            <language>en</language>
+            <name>x_1533383_workout_exercise</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-07 01:11:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-16 04:37:58</sys_updated_on>
+            <value>Biceps</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>body_focus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Triceps</label>
+            <language>en</language>
+            <name>x_1533383_workout_exercise</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-16 04:37:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-16 04:37:58</sys_updated_on>
+            <value>triceps</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>body_focus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chest</label>
+            <language>en</language>
+            <name>x_1533383_workout_exercise</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-07 01:11:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-16 04:37:58</sys_updated_on>
+            <value>Chest</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>body_focus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Shoulders</label>
+            <language>en</language>
+            <name>x_1533383_workout_exercise</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-07 01:11:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-16 04:37:58</sys_updated_on>
+            <value>Shoulders</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>body_focus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Back</label>
+            <language>en</language>
+            <name>x_1533383_workout_exercise</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-16 04:37:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-16 04:37:58</sys_updated_on>
+            <value>back</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>body_focus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Upper Back</label>
+            <language>en</language>
+            <name>x_1533383_workout_exercise</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-16 04:37:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-16 04:37:58</sys_updated_on>
+            <value>upper_back</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>body_focus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lats</label>
+            <language>en</language>
+            <name>x_1533383_workout_exercise</name>
+            <sequence>12</sequence>
+            <synonyms/>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-16 04:37:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-16 04:37:58</sys_updated_on>
+            <value>lats</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

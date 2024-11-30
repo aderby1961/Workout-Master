@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-07 03:18:31</sys_created_on>
+        <sys_id>8170751483f91a1038eaf855eeaad362</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1533383_workout_exercise_reps.x_1533383_workout.exercise_reps_user</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_security_acl display_value="x_1533383_workout_exercise_reps">4570751483f91a1038eaf855eeaad35f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8170751483f91a1038eaf855eeaad362</sys_update_name>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-07 03:18:31</sys_updated_on>
+        <sys_user_role display_value="x_1533383_workout.exercise_reps_user" name="x_1533383_workout.exercise_reps_user">3c70bdd083f91a1038eaf855eeaad383</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</application>
+        <file_path/>
+        <instance_id>f0bdd84f1b3c8ed432182f8dee4bcb56</instance_id>
+        <instance_name>dev240281</instance_name>
+        <name>sys_security_acl_role_8170751483f91a1038eaf855eeaad362</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>aderbyshire</sys_created_by><sys_created_on>2024-11-07 03:18:31</sys_created_on><sys_id>8170751483f91a1038eaf855eeaad362</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1533383_workout_exercise_reps.x_1533383_workout.exercise_reps_user</sys_name><sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package><sys_policy/><sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope><sys_security_acl display_value="x_1533383_workout_exercise_reps">4570751483f91a1038eaf855eeaad35f</sys_security_acl><sys_update_name>sys_security_acl_role_8170751483f91a1038eaf855eeaad362</sys_update_name><sys_updated_by>aderbyshire</sys_updated_by><sys_updated_on>2024-11-07 03:18:31</sys_updated_on><sys_user_role display_value="x_1533383_workout.exercise_reps_user" name="x_1533383_workout.exercise_reps_user">3c70bdd083f91a1038eaf855eeaad383</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1188130111</payload_hash>
+        <record_name>x_1533383_workout_exercise_reps.x_1533383_workout.exercise_reps_user</record_name>
+        <reverted_from/>
+        <source>be249fc88339d61038eaf855eeaad3e5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-07 03:18:31</sys_created_on>
+        <sys_id>0970751483f91a1038eaf855eeaad364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19304a177e80000001</sys_recorded_at>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-07 03:18:31</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>4d707514daf91a10519d8812cd37d763</update_guid>
+        <update_guid_history>4d707514daf91a10519d8812cd37d763:1188130111</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1533383_workout_exercise_reps.x_1533383_workout.exercise_reps_user">a042b11883f91a1038eaf855eeaad3ba</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-07 03:26:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>3d2b8e17f90d4b4891e2d55f75bb5c59</sys_id>
+        <sys_metadata>8170751483f91a1038eaf855eeaad362</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1533383_workout_exercise_reps.x_1533383_workout.exercise_reps_user</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_parent display_value="">4570751483f91a1038eaf855eeaad35f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_scope_delete display_value="">00624512c1ed44ba801663119567a759</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_8170751483f91a1038eaf855eeaad362</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_8170751483f91a1038eaf855eeaad362">0970751483f91a1038eaf855eeaad364</sys_update_version>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-07 03:26:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

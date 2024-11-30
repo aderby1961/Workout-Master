@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Workout Catalog">20c4922d833d925038eaf855eeaad38a</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-11 03:10:07</sys_created_on>
+        <sys_id>55e4962d833d925038eaf855eeaad3fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workout Catalog.catalog_workout_catalog</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_workout_catalog">d9e4962d833d925038eaf855eeaad3f8</sys_portal_page>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_55e4962d833d925038eaf855eeaad3fa</sys_update_name>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-11 03:10:07</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

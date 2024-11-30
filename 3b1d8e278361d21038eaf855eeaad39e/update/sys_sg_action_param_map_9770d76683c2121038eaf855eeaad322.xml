@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Workout Exercise reps)">9370d76683c2121038eaf855eeaad316</button>
+        <item_parameter display_value="Workout Exercise reps number">9370d76683c2121038eaf855eeaad312</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 20:20:07</sys_created_on>
+        <sys_id>9770d76683c2121038eaf855eeaad322</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9370d76683c2121038eaf855eeaad312</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_9770d76683c2121038eaf855eeaad322</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 20:20:07</sys_updated_on>
+        <ui_parameter display_value="Number">1370d76683c2121038eaf855eeaad31a</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

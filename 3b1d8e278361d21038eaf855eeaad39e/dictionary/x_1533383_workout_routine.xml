@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dd5f0e2f83a1d21038eaf855eeaad30e" label="Routine" max_length="40" name="x_1533383_workout_routine" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Body Focus" mandatory="true" max_length="40" name="body_focus" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Overall" sequence="1" value="overall"/>
+                <element inactive_on_update="false" label="Core" sequence="20" value="core"/>
+                <element inactive_on_update="false" label="Glutes" sequence="30" value="Glutes"/>
+                <element inactive_on_update="false" label="Abs" sequence="40" value="Abs"/>
+                <element inactive_on_update="false" label="Legs" sequence="100" value="Legs"/>
+                <element inactive_on_update="false" label="Arm" sequence="200" value="arm"/>
+                <element inactive_on_update="false" label="Biceps" sequence="210" value="Biceps"/>
+                <element inactive_on_update="false" label="Triceps" sequence="220" value="triceps"/>
+                <element inactive_on_update="false" label="Chest" sequence="300" value="Chest"/>
+                <element inactive_on_update="false" label="Shoulders" sequence="400" value="Shoulders"/>
+                <element inactive_on_update="false" label="Back" sequence="500" value="back"/>
+                <element inactive_on_update="false" label="Upper Back" sequence="510" value="upper_back"/>
+                <element inactive_on_update="false" label="Lats" sequence="520" value="lats"/>
+            </choice>
+        </element>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" choice="1" choice_field="body_focus" choice_table="x_1533383_workout_exercise" label="Body Part List" max_length="1024" name="body_part_list" type="glide_list">
+            <choice/>
+        </element>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Client Name" max_length="32" name="client_name" reference="sys_user" type="reference"/>
+        <element choice="1" label="Effort/Intensity" max_length="40" name="effort_intensity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Low" sequence="1" value="low"/>
+                <element inactive_on_update="false" label="Medium" sequence="2" value="medium"/>
+                <element inactive_on_update="false" label="High" sequence="3" value="high"/>
+            </choice>
+        </element>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" label="Exercise List" mandatory="true" max_length="4000" name="exercise_list" reference="x_1533383_workout_exercise" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="glide_list">
+            <choice/>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Routine Name" max_length="40" name="routine_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Schedule Date" max_length="40" name="schedule_date" type="glide_date_time"/>
+        <element default="1" label="Sets" max_length="40" name="sets" type="integer"/>
+        <element label="Short Description" max_length="255" name="short_description" type="string_full_utf8"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Exercise List" mandatory="true" max_length="1024" name="u_glide_list_1" reference="x_1533383_workout_exercise" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" mandatory="true" max_length="40" name="u_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Cardio" sequence="0" value="cardio"/>
+                <element inactive_on_update="false" label="Core" sequence="1" value="core"/>
+                <element inactive_on_update="false" label="Strength" sequence="2" value="strength"/>
+            </choice>
+        </element>
+        <element default="1.0" label="Version" max_length="40" name="version" type="float"/>
+        <index name="index">
+            <element name="client_name"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

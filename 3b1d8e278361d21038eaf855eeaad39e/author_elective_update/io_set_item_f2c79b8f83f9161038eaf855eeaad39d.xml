@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="Create Workout">39db4d848339961038eaf855eeaad3bb</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-15 23:53:18</sys_created_on>
+        <sys_id>f2c79b8f83f9161038eaf855eeaad39d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Routines MVR.Create Workout</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>io_set_item_f2c79b8f83f9161038eaf855eeaad39d</sys_update_name>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-15 23:53:19</sys_updated_on>
+        <variable_set display_value="Routines MVR">18455fa58335d25038eaf855eeaad3bd</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</application>
+        <file_path/>
+        <instance_id>f0bdd84f1b3c8ed432182f8dee4bcb56</instance_id>
+        <instance_name>dev240281</instance_name>
+        <name>io_set_item_f2c79b8f83f9161038eaf855eeaad39d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Create Workout">39db4d848339961038eaf855eeaad3bb</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>aderbyshire</sys_created_by><sys_created_on>2024-11-15 23:53:18</sys_created_on><sys_id>f2c79b8f83f9161038eaf855eeaad39d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Routines MVR.Create Workout</sys_name><sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package><sys_policy/><sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope><sys_update_name>io_set_item_f2c79b8f83f9161038eaf855eeaad39d</sys_update_name><sys_updated_by>aderbyshire</sys_updated_by><sys_updated_on>2024-11-15 23:53:19</sys_updated_on><variable_set display_value="Routines MVR">18455fa58335d25038eaf855eeaad3bd</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>165501695</payload_hash>
+        <record_name>Routines MVR.Create Workout</record_name>
+        <reverted_from/>
+        <source>be249fc88339d61038eaf855eeaad3e5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-15 23:53:19</sys_created_on>
+        <sys_id>cbc79b8f83f9161038eaf855eeaad3bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193323ed75f0000001</sys_recorded_at>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-15 23:53:19</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>03c79b8f8af91610def418ca346bc3bc</update_guid>
+        <update_guid_history>03c79b8f8af91610def418ca346bc3bc:165501695</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Routines MVR.Create Workout">56b8d703833d161038eaf855eeaad3bb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-15 23:57:21</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>103c1f176b0d4931824bae3ffabc5879</sys_id>
+        <sys_metadata>f2c79b8f83f9161038eaf855eeaad39d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Routines MVR.Create Workout</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_scope_delete display_value="">00624512c1ed44ba801663119567a759</sys_scope_delete>
+        <sys_update_name>io_set_item_f2c79b8f83f9161038eaf855eeaad39d</sys_update_name>
+        <sys_update_version display_value="io_set_item_f2c79b8f83f9161038eaf855eeaad39d">cbc79b8f83f9161038eaf855eeaad3bc</sys_update_version>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-15 23:57:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

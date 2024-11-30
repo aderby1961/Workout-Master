@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="Workout Catalog">20c4922d833d925038eaf855eeaad38a</sc_catalog>
+        <sp_portal display_value="Workout Master">51d93be78321161038eaf855eeaad35f</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-11-11 03:10:08</sys_created_on>
+        <sys_id>25e4962d833d925038eaf855eeaad3ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workout Catalog.Workout Master</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_25e4962d833d925038eaf855eeaad3ff</sys_update_name>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-11-11 03:10:08</sys_updated_on>
+    </m2m_sp_portal_catalog>
+</record_update>

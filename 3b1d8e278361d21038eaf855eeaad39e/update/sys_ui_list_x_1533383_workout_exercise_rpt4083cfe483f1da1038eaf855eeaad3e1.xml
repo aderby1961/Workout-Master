@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1533383_workout_exercise" version="2" view="RPT4083cfe483f1da1038eaf855eeaad3e1">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>exercise_name</element>
+            <list_id display_value="x_1533383_workout_exercise" element="NULL" name="x_1533383_workout_exercise" parent="NULL" relationship="NULL" sys_domain="global" view="108383e883f1da1038eaf855eeaad3f2">bfcfaefc83fd1e1038eaf855eeaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-08 21:12:17</sys_created_on>
+            <sys_id>73cfaefc83fd1e1038eaf855eeaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-08 21:12:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>body_focus</element>
+            <list_id display_value="x_1533383_workout_exercise" element="NULL" name="x_1533383_workout_exercise" parent="NULL" relationship="NULL" sys_domain="global" view="108383e883f1da1038eaf855eeaad3f2">bfcfaefc83fd1e1038eaf855eeaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-08 21:12:17</sys_created_on>
+            <sys_id>7bcfaefc83fd1e1038eaf855eeaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-08 21:12:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>type</element>
+            <list_id display_value="x_1533383_workout_exercise" element="NULL" name="x_1533383_workout_exercise" parent="NULL" relationship="NULL" sys_domain="global" view="108383e883f1da1038eaf855eeaad3f2">bfcfaefc83fd1e1038eaf855eeaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-08 21:12:17</sys_created_on>
+            <sys_id>7fcfaefc83fd1e1038eaf855eeaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-08 21:12:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_1533383_workout_exercise" element="NULL" name="x_1533383_workout_exercise" parent="NULL" relationship="NULL" sys_domain="global" view="108383e883f1da1038eaf855eeaad3f2">bfcfaefc83fd1e1038eaf855eeaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-08 21:12:17</sys_created_on>
+            <sys_id>73cfaefc83fd1e1038eaf855eeaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-08 21:12:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="x_1533383_workout_exercise" element="NULL" name="x_1533383_workout_exercise" parent="NULL" relationship="NULL" sys_domain="global" view="108383e883f1da1038eaf855eeaad3f2">bfcfaefc83fd1e1038eaf855eeaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-08 21:12:17</sys_created_on>
+            <sys_id>77cfaefc83fd1e1038eaf855eeaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-08 21:12:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_1533383_workout_exercise" element="NULL" name="x_1533383_workout_exercise" parent="NULL" relationship="NULL" sys_domain="global" view="108383e883f1da1038eaf855eeaad3f2">bfcfaefc83fd1e1038eaf855eeaad38e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-08 21:12:17</sys_created_on>
+            <sys_id>7bcfaefc83fd1e1038eaf855eeaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-08 21:12:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1533383_workout_exercise</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-11-08 21:12:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bfcfaefc83fd1e1038eaf855eeaad38e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1533383_workout_exercise</sys_name>
+            <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+            <sys_update_name>sys_ui_list_x_1533383_workout_exercise_RPT4083cfe483f1da1038eaf855eeaad3e1</sys_update_name>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-11-08 21:12:17</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt4083cfe483f1da1038eaf855eeaad3e1" name="RPT4083cfe483f1da1038eaf855eeaad3e1">108383e883f1da1038eaf855eeaad3f2</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
