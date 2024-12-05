@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
     <io_set_item action="INSERT_OR_UPDATE">
-        <order>100</order>
-        <sc_cat_item display_value="Add Reps to Workout">2be4cae28375121038eaf855eeaad3d6</sc_cat_item>
+        <order>1000</order>
+        <sc_cat_item display_value="Create Program v2">a816869d839e121038eaf855eeaad3f9</sc_cat_item>
         <sys_class_name>io_set_item</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-11-14 04:35:56</sys_created_on>
-        <sys_id>db450a268375121038eaf855eeaad3c9</sys_id>
+        <sys_created_on>2024-12-05 03:59:56</sys_created_on>
+        <sys_id>f47686dd839e121038eaf855eeaad3d9</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>Exercise Reps.Add Reps to Workout</sys_name>
+        <sys_name>Select Routine Day.Create Program v2</sys_name>
         <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
-        <sys_update_name>io_set_item_db450a268375121038eaf855eeaad3c9</sys_update_name>
+        <sys_update_name>io_set_item_f47686dd839e121038eaf855eeaad3d9</sys_update_name>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-11-14 04:35:56</sys_updated_on>
-        <variable_set display_value="Exercise Reps">ca3586268375121038eaf855eeaad314</variable_set>
+        <sys_updated_on>2024-12-05 03:59:56</sys_updated_on>
+        <variable_set display_value="Select Routine Day">ba0ed085831e121038eaf855eeaad331</variable_set>
     </io_set_item>
 </record_update>

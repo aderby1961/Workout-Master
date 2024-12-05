@@ -32,6 +32,9 @@
             <choice/>
         </element>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Program" max_length="40" name="program" type="string">
+            <choice/>
+        </element>
         <element attributes="edge_encryption_enabled=true" display="true" label="Routine Name" max_length="40" name="routine_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Schedule Date" max_length="40" name="schedule_date" type="glide_date_time"/>
         <element default="1" label="Sets" max_length="40" name="sets" type="integer"/>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Create Client Program">2e705991831a121038eaf855eeaad38d</sc_cat_item>
+        <sc_catalog display_value="Workout Catalog">20c4922d833d925038eaf855eeaad38a</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-05 00:05:10</sys_created_on>
+        <sys_id>8eb051d1831a121038eaf855eeaad36d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workout Catalog.Create Client Program</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_8eb051d1831a121038eaf855eeaad36d</sys_update_name>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-05 00:05:10</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</application>
+        <file_path/>
+        <instance_id>f0bdd84f1b3c8ed432182f8dee4bcb56</instance_id>
+        <instance_name>dev240281</instance_name>
+        <name>sc_cat_item_catalog_8eb051d1831a121038eaf855eeaad36d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create Client Program">2e705991831a121038eaf855eeaad38d</sc_cat_item><sc_catalog display_value="Workout Catalog">20c4922d833d925038eaf855eeaad38a</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>aderbyshire</sys_created_by><sys_created_on>2024-12-05 00:05:10</sys_created_on><sys_id>8eb051d1831a121038eaf855eeaad36d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Workout Catalog.Create Client Program</sys_name><sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package><sys_policy/><sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope><sys_update_name>sc_cat_item_catalog_8eb051d1831a121038eaf855eeaad36d</sys_update_name><sys_updated_by>aderbyshire</sys_updated_by><sys_updated_on>2024-12-05 00:05:10</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-878854987</payload_hash>
+        <record_name>Workout Catalog.Create Client Program</record_name>
+        <reverted_from/>
+        <source>be249fc88339d61038eaf855eeaad3e5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-05 00:05:10</sys_created_on>
+        <sys_id>4ab051d1831a121038eaf855eeaad371</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193942286250000001</sys_recorded_at>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-05 00:05:10</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>4eb051d1351a12109be89422ba464670</update_guid>
+        <update_guid_history>4eb051d1351a12109be89422ba464670:-878854987</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Workout Catalog.Create Client Program">f00f16518392521038eaf855eeaad30c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-05 05:47:15</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>ca77b3c5eac649bab8884b978c4065a9</sys_id>
+        <sys_metadata>8eb051d1831a121038eaf855eeaad36d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workout Catalog.Create Client Program</sys_name>
+        <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
+        <sys_parent display_value="">2e705991831a121038eaf855eeaad38d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_scope_delete display_value="">00624512c1ed44ba801663119567a759</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_8eb051d1831a121038eaf855eeaad36d</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_8eb051d1831a121038eaf855eeaad36d">4ab051d1831a121038eaf855eeaad371</sys_update_version>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-05 05:47:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
