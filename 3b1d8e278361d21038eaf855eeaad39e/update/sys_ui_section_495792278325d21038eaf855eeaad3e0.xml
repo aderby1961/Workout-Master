@@ -4,13 +4,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>aderbyshire</sys_created_by>
-            <sys_created_on>2024-11-28 23:57:45</sys_created_on>
-            <sys_id>6a751ad383ca121038eaf855eeaad3cd</sys_id>
+            <sys_created_on>2024-12-07 21:25:10</sys_created_on>
+            <sys_id>d7d840de8352121038eaf855eeaad381</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
             <sys_updated_by>aderbyshire</sys_updated_by>
-            <sys_updated_on>2024-11-28 23:57:45</sys_updated_on>
+            <sys_updated_on>2024-12-07 21:25:10</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>exercise_name</element>
             <position>1</position>
             <sys_created_by>aderbyshire</sys_created_by>
-            <sys_created_on>2024-11-28 23:57:45</sys_created_on>
-            <sys_id>62751ad383ca121038eaf855eeaad3ce</sys_id>
+            <sys_created_on>2024-12-07 21:25:10</sys_created_on>
+            <sys_id>dfd840de8352121038eaf855eeaad381</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
             <sys_updated_by>aderbyshire</sys_updated_by>
-            <sys_updated_on>2024-11-28 23:57:45</sys_updated_on>
+            <sys_updated_on>2024-12-07 21:25:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>type</element>
             <position>2</position>
             <sys_created_by>aderbyshire</sys_created_by>
-            <sys_created_on>2024-11-28 23:57:45</sys_created_on>
-            <sys_id>66751ad383ca121038eaf855eeaad3ce</sys_id>
+            <sys_created_on>2024-12-07 21:25:10</sys_created_on>
+            <sys_id>53d840de8352121038eaf855eeaad382</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
             <sys_updated_by>aderbyshire</sys_updated_by>
-            <sys_updated_on>2024-11-28 23:57:45</sys_updated_on>
+            <sys_updated_on>2024-12-07 21:25:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,155 +46,169 @@
             <element>standard_rep</element>
             <position>3</position>
             <sys_created_by>aderbyshire</sys_created_by>
-            <sys_created_on>2024-11-28 23:57:45</sys_created_on>
-            <sys_id>6a751ad383ca121038eaf855eeaad3ce</sys_id>
+            <sys_created_on>2024-12-07 21:25:10</sys_created_on>
+            <sys_id>d3d840de8352121038eaf855eeaad382</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
             <sys_updated_by>aderbyshire</sys_updated_by>
-            <sys_updated_on>2024-11-28 23:57:45</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>body_focus</element>
-            <position>4</position>
-            <sys_created_by>aderbyshire</sys_created_by>
-            <sys_created_on>2024-11-28 23:57:45</sys_created_on>
-            <sys_id>6e751ad383ca121038eaf855eeaad3ce</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
-            <sys_updated_by>aderbyshire</sys_updated_by>
-            <sys_updated_on>2024-11-28 23:57:45</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>isolated_body_part</element>
-            <position>5</position>
-            <sys_created_by>aderbyshire</sys_created_by>
-            <sys_created_on>2024-11-28 23:57:45</sys_created_on>
-            <sys_id>72751ad383ca121038eaf855eeaad3cf</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
-            <sys_updated_by>aderbyshire</sys_updated_by>
-            <sys_updated_on>2024-11-28 23:57:45</sys_updated_on>
+            <sys_updated_on>2024-12-07 21:25:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>6</position>
+            <position>4</position>
             <sys_created_by>aderbyshire</sys_created_by>
-            <sys_created_on>2024-11-28 23:57:45</sys_created_on>
-            <sys_id>76751ad383ca121038eaf855eeaad3cf</sys_id>
+            <sys_created_on>2024-12-07 21:25:10</sys_created_on>
+            <sys_id>57d840de8352121038eaf855eeaad382</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
             <sys_updated_by>aderbyshire</sys_updated_by>
-            <sys_updated_on>2024-11-28 23:57:45</sys_updated_on>
+            <sys_updated_on>2024-12-07 21:25:10</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_created_on</element>
+            <element>body_focus</element>
+            <position>5</position>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-12-07 21:25:10</sys_created_on>
+            <sys_id>d7d840de8352121038eaf855eeaad382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-12-07 21:25:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>isolated_body_part</element>
+            <position>6</position>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-12-07 21:25:10</sys_created_on>
+            <sys_id>5bd840de8352121038eaf855eeaad382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-12-07 21:25:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>machine</element>
             <position>7</position>
             <sys_created_by>aderbyshire</sys_created_by>
-            <sys_created_on>2024-11-28 23:57:45</sys_created_on>
-            <sys_id>7a751ad383ca121038eaf855eeaad3cf</sys_id>
+            <sys_created_on>2024-12-07 21:25:10</sys_created_on>
+            <sys_id>dbd840de8352121038eaf855eeaad382</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
             <sys_updated_by>aderbyshire</sys_updated_by>
-            <sys_updated_on>2024-11-28 23:57:45</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
-            <position>8</position>
-            <sys_created_by>aderbyshire</sys_created_by>
-            <sys_created_on>2024-11-28 23:57:45</sys_created_on>
-            <sys_id>7e751ad383ca121038eaf855eeaad3cf</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
-            <sys_updated_by>aderbyshire</sys_updated_by>
-            <sys_updated_on>2024-11-28 23:57:45</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_created_by</element>
-            <position>9</position>
-            <sys_created_by>aderbyshire</sys_created_by>
-            <sys_created_on>2024-11-28 23:57:45</sys_created_on>
-            <sys_id>72751ad383ca121038eaf855eeaad3d0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
-            <sys_updated_by>aderbyshire</sys_updated_by>
-            <sys_updated_on>2024-11-28 23:57:45</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_updated_on</element>
-            <position>10</position>
-            <sys_created_by>aderbyshire</sys_created_by>
-            <sys_created_on>2024-11-28 23:57:45</sys_created_on>
-            <sys_id>76751ad383ca121038eaf855eeaad3d0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
-            <sys_updated_by>aderbyshire</sys_updated_by>
-            <sys_updated_on>2024-11-28 23:57:45</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_updated_by</element>
-            <position>11</position>
-            <sys_created_by>aderbyshire</sys_created_by>
-            <sys_created_on>2024-11-28 23:57:45</sys_created_on>
-            <sys_id>7a751ad383ca121038eaf855eeaad3d0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
-            <sys_updated_by>aderbyshire</sys_updated_by>
-            <sys_updated_on>2024-11-28 23:57:45</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
-            <position>12</position>
-            <sys_created_by>aderbyshire</sys_created_by>
-            <sys_created_on>2024-11-28 23:57:45</sys_created_on>
-            <sys_id>7e751ad383ca121038eaf855eeaad3d0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
-            <sys_updated_by>aderbyshire</sys_updated_by>
-            <sys_updated_on>2024-11-28 23:57:45</sys_updated_on>
+            <sys_updated_on>2024-12-07 21:25:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>13</position>
+            <position>8</position>
             <sys_created_by>aderbyshire</sys_created_by>
-            <sys_created_on>2024-11-28 23:57:45</sys_created_on>
-            <sys_id>72751ad383ca121038eaf855eeaad3d1</sys_id>
+            <sys_created_on>2024-12-07 21:25:10</sys_created_on>
+            <sys_id>5fd840de8352121038eaf855eeaad382</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
             <sys_updated_by>aderbyshire</sys_updated_by>
-            <sys_updated_on>2024-11-28 23:57:45</sys_updated_on>
+            <sys_updated_on>2024-12-07 21:25:10</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>9</position>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-12-07 21:25:10</sys_created_on>
+            <sys_id>dfd840de8352121038eaf855eeaad382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-12-07 21:25:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>10</position>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-12-07 21:25:10</sys_created_on>
+            <sys_id>53d840de8352121038eaf855eeaad383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-12-07 21:25:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>11</position>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-12-07 21:25:10</sys_created_on>
+            <sys_id>d3d840de8352121038eaf855eeaad383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-12-07 21:25:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>12</position>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-12-07 21:25:10</sys_created_on>
+            <sys_id>57d840de8352121038eaf855eeaad383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-12-07 21:25:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>13</position>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-12-07 21:25:10</sys_created_on>
+            <sys_id>d7d840de8352121038eaf855eeaad383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-12-07 21:25:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>14</position>
+            <sys_created_by>aderbyshire</sys_created_by>
+            <sys_created_on>2024-12-07 21:25:10</sys_created_on>
+            <sys_id>5bd840de8352121038eaf855eeaad383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1533383_workout_exercise" sys_domain="global" view="Default view">495792278325d21038eaf855eeaad3e0</sys_ui_section>
+            <sys_updated_by>aderbyshire</sys_updated_by>
+            <sys_updated_on>2024-12-07 21:25:10</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="06f39c1683d2121038eaf855eeaad373" extends="cmdb_ci" label="Fitness Equipment" max_length="40" name="x_1533383_workout_fitness_equipment" type="collection"/>
+</database>

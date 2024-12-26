@@ -5,8 +5,10 @@
         <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Gym Client" max_length="32" name="gym_client" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Last Date" max_length="40" name="last_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Number of Weeks" max_length="255" name="number_of_weeks" type="string_full_utf8"/>
-        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Program Name" mandatory="true" max_length="255" name="program_name" type="string_full_utf8"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" display="true" label="Program Name" mandatory="true" max_length="255" name="program_name" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="4000" name="short_description" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element label="Template" max_length="40" name="template" type="boolean"/>
         <index name="index">
             <element name="enter_pt_name"/>
         </index>

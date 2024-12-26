@@ -32,7 +32,7 @@
             <choice/>
         </element>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Program" max_length="40" name="program" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Program" max_length="40" name="program" reference="x_1533383_workout_program" type="reference">
             <choice/>
         </element>
         <element attributes="edge_encryption_enabled=true" display="true" label="Routine Name" max_length="40" name="routine_name" type="string"/>

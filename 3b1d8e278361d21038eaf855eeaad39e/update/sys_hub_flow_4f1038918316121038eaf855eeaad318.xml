@@ -4,14 +4,14 @@
         <acls/>
         <active>true</active>
         <annotation/>
-        <attributes>browserActivatedIn=edge,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=26198000,viewActivatedIn=naturalLanguage</attributes>
+        <attributes>browserActivatedIn=edge,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=473334000,viewActivatedIn=naturalLanguage</attributes>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from/>
         <copied_from_name/>
         <description/>
         <internal_name>testing_program_creation</internal_name>
-        <label_cache>[{"name":"flow_variable.currentincrement","label":"Flow Variables➛currentIncrement","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"33036b27-2659-4e1f-851d-c8418759fd6f"}},{"name":"39986f24-8ca7-4a35-947d-ca2844129769.item.routine","label":"5 - For Each➛Select Routine Day➛Routine","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"10eb0d40-c52c-40d4-89f0-d89d806bac61.record","label":"2 - Create Record➛Program Record","reference":"x_1533383_workout_program","reference_display":"Program Record","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.number_of_days_in_cycle","label":"1 - Get Catalog Variables➛number_of_days_in_cycle","reference":"","reference_display":"number_of_days_in_cycle","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.start_date","label":"1 - Get Catalog Variables➛start_date","reference":"","reference_display":"start_date","type":"glide_date","base_type":"glide_date","attributes":{"catalogType":"9","catalogTypeLabel":"Date"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.number_of_weeks_in_program","label":"1 - Get Catalog Variables➛number_of_weeks_in_program","reference":"","reference_display":"number_of_weeks_in_program","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"95c42292-735a-4386-a1f7-aa39adc53be2.item.routine","label":"8 - For Each➛Select Routine Day➛Routine","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.select_routine_day","label":"1 - Get Catalog Variables➛select_routine_day","reference":"","reference_display":"select_routine_day","type":"array.object","base_type":"array.object","attributes":{"child_label":"Select Routine Day","child_type_label":"Object","child_type":"object","child_name":"select_routine_day"}},{"name":"Service Catalog_1.request_item","label":"Trigger - Service Catalog➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"default_search_field":"number"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.gym_client","label":"1 - Get Catalog Variables➛gym_client","reference":"sys_user","reference_display":"gym_client","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.personal_trainer","label":"1 - Get Catalog Variables➛personal_trainer","reference":"sys_user","reference_display":"personal_trainer","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.enter_program_name","label":"1 - Get Catalog Variables➛enter_program_name","reference":"","reference_display":"enter_program_name","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}}]</label_cache>
+        <label_cache>[{"name":"d8e1bd1c-f773-49f9-93af-ad7ad7273066.totaldays","label":"6 - Calculate Schedule Date➛totalDays","reference_display":"totalDays","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"de63eedc-96af-4516-9901-37cadd6e80eb"}},{"name":"d8e1bd1c-f773-49f9-93af-ad7ad7273066.variable","label":"6 - Calculate Schedule Date➛calcTotalDays","reference_display":"calcTotalDays","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"a9c5d3e8-e130-4dbd-bccd-f2ee5c0f4308"}},{"name":"d8e1bd1c-f773-49f9-93af-ad7ad7273066.calcdays","label":"6 - Calculate Schedule Date➛calcDays","reference_display":"calcDays","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"82c5bf23-ed8d-465e-bd8e-3c1753cea43d"}},{"name":"312444e5-f255-4a76-8eba-d6e59e4840b6.record","label":"2 - Create Record➛Program Record","reference":"x_1533383_workout_program","reference_display":"Program","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"flow_variable.lastweek","label":"Flow Variables➛lastWeek","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"9f94972d-337a-4183-9c37-c879ea21b0ad"}},{"name":"flow_variable.currentweek","label":"Flow Variables➛currentWeek","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"33036b27-2659-4e1f-851d-c8418759fd6f"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.enter_program_name","label":"1 - Get Catalog Variables➛enter_program_name","reference":"","reference_display":"enter_program_name","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.personal_trainer","label":"1 - Get Catalog Variables➛personal_trainer","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.gym_client","label":"1 - Get Catalog Variables➛gym_client","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"Service Catalog_1.request_item","label":"Trigger - Service Catalog➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"default_search_field":"number"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.select_routine_day","label":"1 - Get Catalog Variables➛select_routine_day","reference":"","reference_display":"select_routine_day","type":"array.object","base_type":"array.object","attributes":{"child_label":"Select Routine Day","child_type_label":"Object","child_type":"object","child_name":"select_routine_day"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.number_of_weeks_in_program","label":"1 - Get Catalog Variables➛number_of_weeks_in_program","reference":"","reference_display":"number_of_weeks_in_program","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.start_date","label":"1 - Get Catalog Variables➛start_date","reference":"","reference_display":"start_date","type":"glide_date","base_type":"glide_date","attributes":{"catalogType":"9","catalogTypeLabel":"Date"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.number_of_days_in_cycle","label":"1 - Get Catalog Variables➛number_of_days_in_cycle","reference":"","reference_display":"number_of_days_in_cycle","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"39986f24-8ca7-4a35-947d-ca2844129769.item.routine","label":"5 - For Each➛Select Routine Day➛Routine","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"flow_variable.currentincrement","label":"Flow Variables➛currentIncrement","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"33036b27-2659-4e1f-851d-c8418759fd6f"}},{"name":"39986f24-8ca7-4a35-947d-ca2844129769.item.select_program_day","label":"5 - For Each➛Select Routine Day➛Select Program Day","reference":"","reference_display":"","type":"choice","base_type":"choice","column_name":"","choices":[{"label":"Day 1","value":"1","order":100.0},{"label":"Day 2","value":"2","order":100.0},{"label":"Day 3","value":"3","order":100.0},{"label":"Day 4","value":"4","order":100.0},{"label":"Day 5","value":"5","order":100.0},{"label":"Day 6","value":"6","order":100.0},{"label":"Day 7","value":"7","order":100.0},{"label":"Day 8","value":"8","order":100.0},{"label":"Day 9","value":"9","order":100.0},{"label":"Day 10","value":"10","order":100.0}],"attributes":{"catalogType":"5","catalogTypeLabel":"Select Box"}},{"name":"312444e5-f255-4a76-8eba-d6e59e4840b6.record.number_of_weeks","label":"2 - Create Record➛Program Record➛Number of Weeks","reference":"","reference_display":"Number of Weeks","type":"string_full_utf8","base_type":"string_full_utf8","parent_table_name":"x_1533383_workout_program","column_name":"number_of_weeks"},{"name":"312444e5-f255-4a76-8eba-d6e59e4840b6.record.cycle_length","label":"2 - Create Record➛Program Record➛Cycle Length","reference":"","reference_display":"Cycle Length","type":"string","base_type":"string","parent_table_name":"x_1533383_workout_program","column_name":"cycle_length"}]</label_cache>
         <master_snapshot>7f0e455d83d6121038eaf855eeaad30d</master_snapshot>
         <name>Gym Client Program Creation</name>
         <natlang/>
@@ -23,14 +23,14 @@
         <sc_callable>false</sc_callable>
         <show_draft_actions>false</show_draft_actions>
         <show_triggered_flows>false</show_triggered_flows>
-        <status>draft</status>
+        <status>published</status>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-12-04 21:42:42</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4f1038918316121038eaf855eeaad318</sys_id>
-        <sys_mod_count>48</sys_mod_count>
+        <sys_mod_count>259</sys_mod_count>
         <sys_name>Gym Client Program Creation</sys_name>
         <sys_overrides/>
         <sys_package display_value="Workout Master" source="x_1533383_workout">3b1d8e278361d21038eaf855eeaad39e</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_update_name>sys_hub_flow_4f1038918316121038eaf855eeaad318</sys_update_name>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:31:38</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:11:42</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=4f1038918316121038eaf855eeaad318"/>
@@ -71,10 +71,10 @@
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-12-05 00:32:44</sys_created_on>
         <sys_id>b9071d11835a121038eaf855eeaad3df</sys_id>
-        <sys_mod_count>43</sys_mod_count>
+        <sys_mod_count>254</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:31:38</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:11:42</sys_updated_on>
         <trigger_definition display_value="Service Catalog">c43a1011c36813002841b63b12d3ae15</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -100,7 +100,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -143,7 +143,7 @@
         <next_element/>
         <order>100</order>
         <primary>false</primary>
-        <read_only>false</read_only>
+        <read_only>true</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -159,14 +159,14 @@
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-12-04 23:53:31</sys_created_on>
         <sys_id>1b0e055d83d6121038eaf855eeaad37c</sys_id>
-        <sys_mod_count>87</sys_mod_count>
+        <sys_mod_count>509</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_update_name/>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:31:38</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:11:42</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -184,7 +184,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>default_search_field=number,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference,uiTypeLabel=Reference</attributes>
+        <attributes>default_search_field=number,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -243,14 +243,14 @@
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-12-05 00:32:43</sys_created_on>
         <sys_id>69071d11835a121038eaf855eeaad38c</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>123</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_update_name/>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 05:09:07</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:11:41</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -266,12 +266,12 @@
     <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=69071d11835a121038eaf855eeaad38c"/>
     <sys_hub_flow_output action="delete_multiple" query="model=4f1038918316121038eaf855eeaad318"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=4f1038918316121038eaf855eeaad318"/>
-    <sys_hub_action_instance action="delete_multiple" query="flow=4f1038918316121038eaf855eeaad318^sys_idNOT IN085203598396521038eaf855eeaad331,4e9c8e1d83de121038eaf855eeaad34d,a0a8f2558356521038eaf855eeaad3bd,e01c4ed983de121038eaf855eeaad31e"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=4f1038918316121038eaf855eeaad318^sys_idNOT IN5a48680b831a521038eaf855eeaad3ea,80e85c0f8356521038eaf855eeaad35e,e01c4ed983de121038eaf855eeaad31e,f0bccc438316521038eaf855eeaad3f4"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
-        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
-        <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
+        <action_type display_value="Calculate Schedule Date">77c6a847831a521038eaf855eeaad39e</action_type>
+        <action_type_parent display_value="Calculate Schedule Date">34f65336835e121038eaf855eeaad333</action_type_parent>
         <attributes/>
         <comment/>
         <display_text/>
@@ -280,132 +280,57 @@
         <parent_ui_id>39986f24-8ca7-4a35-947d-ca2844129769</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 08:21:28</sys_created_on>
-        <sys_id>085203598396521038eaf855eeaad331</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_created_on>2024-12-10 07:37:54</sys_created_on>
+        <sys_id>5a48680b831a521038eaf855eeaad3ea</sys_id>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:31:38</sys_updated_on>
-        <ui_id>095047d4-363c-40a9-8ece-023f9620726a</ui_id>
+        <sys_updated_on>2024-12-10 09:11:42</sys_updated_on>
+        <ui_id>d8e1bd1c-f773-49f9-93af-ad7ad7273066</ui_id>
     </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=085203598396521038eaf855eeaad331"/>
+    <sys_variable_value action="delete_multiple" query="document_key=5a48680b831a521038eaf855eeaad3ea"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
-        <document_key>085203598396521038eaf855eeaad331</document_key>
-        <order>0</order>
+        <document_key>5a48680b831a521038eaf855eeaad3ea</document_key>
+        <order>1</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 08:21:28</sys_created_on>
-        <sys_id>445203598396521038eaf855eeaad333</sys_id>
+        <sys_created_on>2024-12-10 07:37:54</sys_created_on>
+        <sys_id>5248680b831a521038eaf855eeaad3ed</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:21:28</sys_updated_on>
-        <value>x_1533383_workout_workout</value>
-        <variable display_value="Table">61e05916c31332002841b63b12d3aee4</variable>
-    </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=085203598396521038eaf855eeaad331"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>table_name</field>
-        <id>085203598396521038eaf855eeaad331</id>
-        <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 08:21:28</sys_created_on>
-        <sys_id>005203598396521038eaf855eeaad333</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:21:28</sys_updated_on>
-        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <sys_updated_on>2024-12-10 07:37:54</sys_updated_on>
         <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>values</field>
-        <id>085203598396521038eaf855eeaad331</id>
-        <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 08:21:28</sys_created_on>
-        <sys_id>c05203598396521038eaf855eeaad333</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:21:28</sys_updated_on>
-        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value>personal_trainer={{97a8dd50-681f-41e1-be14-8e0225b3246f.personal_trainer}}^gym_client={{97a8dd50-681f-41e1-be14-8e0225b3246f.gym_client}}^program={{10eb0d40-c52c-40d4-89f0-d89d806bac61.record}}^routine={{39986f24-8ca7-4a35-947d-ca2844129769.item.routine}}^=</value>
-    </sys_element_mapping>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=085203598396521038eaf855eeaad331"/>
-    <sys_hub_alias_mapping action="delete_multiple" query="source_id=085203598396521038eaf855eeaad331"/>
-    <sys_hub_action_instance action="INSERT_OR_UPDATE">
-        <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
-        <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
-        <attributes/>
-        <comment/>
-        <display_text/>
-        <flow display_value="Gym Client Program Creation">4f1038918316121038eaf855eeaad318</flow>
-        <order>10</order>
-        <parent_ui_id>95c42292-735a-4386-a1f7-aa39adc53be2</parent_ui_id>
-        <sys_class_name>sys_hub_action_instance</sys_class_name>
-        <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 04:26:46</sys_created_on>
-        <sys_id>4e9c8e1d83de121038eaf855eeaad34d</sys_id>
-        <sys_mod_count>56</sys_mod_count>
-        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
-        <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:31:38</sys_updated_on>
-        <ui_id>e3f762f1-19de-4611-9859-bf8738ac8b87</ui_id>
-    </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=4e9c8e1d83de121038eaf855eeaad34d"/>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>4e9c8e1d83de121038eaf855eeaad34d</document_key>
-        <order>0</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 04:26:46</sys_created_on>
-        <sys_id>469c8e1d83de121038eaf855eeaad34f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:26:46</sys_updated_on>
-        <value>x_1533383_workout_workout</value>
-        <variable display_value="Table">61e05916c31332002841b63b12d3aee4</variable>
+        <variable display_value="inputWeek">ffc6a847831a521038eaf855eeaad3a1</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=4e9c8e1d83de121038eaf855eeaad34d"/>
+    <sys_element_mapping action="delete_multiple" query="id=5a48680b831a521038eaf855eeaad3ea"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>table_name</field>
-        <id>4e9c8e1d83de121038eaf855eeaad34d</id>
+        <field>inputweek</field>
+        <id>5a48680b831a521038eaf855eeaad3ea</id>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 04:26:46</sys_created_on>
-        <sys_id>029c8e1d83de121038eaf855eeaad34f</sys_id>
+        <sys_created_on>2024-12-10 07:37:54</sys_created_on>
+        <sys_id>da48680b831a521038eaf855eeaad3ec</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:26:46</sys_updated_on>
-        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value/>
+        <sys_updated_on>2024-12-10 07:37:54</sys_updated_on>
+        <table>var__m_sys_hub_action_input_77c6a847831a521038eaf855eeaad39e</table>
+        <value>{{flow_variable.currentweek}}</value>
     </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>values</field>
-        <id>4e9c8e1d83de121038eaf855eeaad34d</id>
-        <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 04:26:46</sys_created_on>
-        <sys_id>c29c8e1d83de121038eaf855eeaad34f</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 06:18:44</sys_updated_on>
-        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value>gym_client={{97a8dd50-681f-41e1-be14-8e0225b3246f.gym_client}}^personal_trainer={{97a8dd50-681f-41e1-be14-8e0225b3246f.personal_trainer}}^routine={{95c42292-735a-4386-a1f7-aa39adc53be2.item.routine}}^schedule_date=fd-scripted</value>
-    </sys_element_mapping>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=4e9c8e1d83de121038eaf855eeaad34d^sys_idNOT IN2a46da518352521038eaf855eeaad30a"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=5a48680b831a521038eaf855eeaad3ea^sys_idNOT IN5e48680b831a521038eaf855eeaad3eb"/>
     <sys_hub_input_scripts action="INSERT_OR_UPDATE">
         <active>true</active>
-        <input_name>values</input_name>
-        <instance>4e9c8e1d83de121038eaf855eeaad34d</instance>
+        <input_name>inputday</input_name>
+        <instance>5a48680b831a521038eaf855eeaad3ea</instance>
         <referenced_table>sys_hub_action_instance</referenced_table>
-        <script>{"schedule_date":{"scriptActive":true,"script":"//var effectiveDate \u003d fd_data.trigger.current.u_effective_date.getDisplayValue();\nvar effectiveDate \u003dfd_data._1__get_catalog_variables.start_date;\ngs.info(\"EFFECTIVE DATE: \" + effectiveDate);\nfd_data.\nvar gd \u003d new GlideDate();\n\n  gd.setValue(effectiveDate);\n\n  gd.addDaysLocalTime(1);\n  \n  gs.info(\"NEW DATE: \" + gd)\n\n  return gd;","savedValue":""}}</script>
+        <script>{"inputday":{"scriptActive":true,"script":"return fd_data._5__for_each.item.select_program_day;"}}</script>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 05:09:08</sys_created_on>
-        <sys_id>2a46da518352521038eaf855eeaad30a</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_created_on>2024-12-10 07:37:54</sys_created_on>
+        <sys_id>5e48680b831a521038eaf855eeaad3eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 06:18:44</sys_updated_on>
+        <sys_updated_on>2024-12-10 07:37:54</sys_updated_on>
     </sys_hub_input_scripts>
-    <sys_hub_alias_mapping action="delete_multiple" query="source_id=4e9c8e1d83de121038eaf855eeaad34d"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=5a48680b831a521038eaf855eeaad3ea"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -415,60 +340,60 @@
         <comment/>
         <display_text/>
         <flow display_value="Gym Client Program Creation">4f1038918316121038eaf855eeaad318</flow>
-        <order>2</order>
-        <parent_ui_id/>
+        <order>7</order>
+        <parent_ui_id>39986f24-8ca7-4a35-947d-ca2844129769</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 07:39:11</sys_created_on>
-        <sys_id>a0a8f2558356521038eaf855eeaad3bd</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_created_on>2024-12-10 06:30:33</sys_created_on>
+        <sys_id>80e85c0f8356521038eaf855eeaad35e</sys_id>
+        <sys_mod_count>40</sys_mod_count>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:31:38</sys_updated_on>
-        <ui_id>10eb0d40-c52c-40d4-89f0-d89d806bac61</ui_id>
+        <sys_updated_on>2024-12-10 09:11:42</sys_updated_on>
+        <ui_id>27760c6d-15d5-4ac3-9510-449832e7acb5</ui_id>
     </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=a0a8f2558356521038eaf855eeaad3bd"/>
+    <sys_variable_value action="delete_multiple" query="document_key=80e85c0f8356521038eaf855eeaad35e"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
-        <document_key>a0a8f2558356521038eaf855eeaad3bd</document_key>
+        <document_key>80e85c0f8356521038eaf855eeaad35e</document_key>
         <order>0</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 07:39:11</sys_created_on>
-        <sys_id>e0a8f2558356521038eaf855eeaad3bf</sys_id>
+        <sys_created_on>2024-12-10 06:30:33</sys_created_on>
+        <sys_id>c0e85c0f8356521038eaf855eeaad360</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 07:39:11</sys_updated_on>
-        <value>x_1533383_workout_program</value>
+        <sys_updated_on>2024-12-10 06:30:33</sys_updated_on>
+        <value>x_1533383_workout_workout</value>
         <variable display_value="Table">61e05916c31332002841b63b12d3aee4</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=a0a8f2558356521038eaf855eeaad3bd"/>
+    <sys_element_mapping action="delete_multiple" query="id=80e85c0f8356521038eaf855eeaad35e"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table_name</field>
-        <id>a0a8f2558356521038eaf855eeaad3bd</id>
+        <id>80e85c0f8356521038eaf855eeaad35e</id>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 07:39:11</sys_created_on>
-        <sys_id>a8a8f2558356521038eaf855eeaad3be</sys_id>
+        <sys_created_on>2024-12-10 06:30:33</sys_created_on>
+        <sys_id>88e85c0f8356521038eaf855eeaad35f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 07:39:11</sys_updated_on>
+        <sys_updated_on>2024-12-10 06:30:33</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
         <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>values</field>
-        <id>a0a8f2558356521038eaf855eeaad3bd</id>
+        <id>80e85c0f8356521038eaf855eeaad35e</id>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 07:39:11</sys_created_on>
-        <sys_id>60a8f2558356521038eaf855eeaad3bf</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_created_on>2024-12-10 06:30:33</sys_created_on>
+        <sys_id>40e85c0f8356521038eaf855eeaad360</sys_id>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 07:45:37</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:11:26</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value>number_of_weeks={{97a8dd50-681f-41e1-be14-8e0225b3246f.number_of_weeks_in_program}}^gym_client={{97a8dd50-681f-41e1-be14-8e0225b3246f.gym_client}}^enter_pt_name={{97a8dd50-681f-41e1-be14-8e0225b3246f.personal_trainer}}^start_date={{97a8dd50-681f-41e1-be14-8e0225b3246f.start_date}}^cycle_length={{97a8dd50-681f-41e1-be14-8e0225b3246f.number_of_days_in_cycle}}^program_name={{97a8dd50-681f-41e1-be14-8e0225b3246f.enter_program_name}}</value>
+        <value>routine={{39986f24-8ca7-4a35-947d-ca2844129769.item.routine}}^gym_client={{97a8dd50-681f-41e1-be14-8e0225b3246f.gym_client}}^personal_trainer={{97a8dd50-681f-41e1-be14-8e0225b3246f.personal_trainer}}^schedule_date={{flow_variable.currentweek}}^program={{312444e5-f255-4a76-8eba-d6e59e4840b6.record}}^program_cycle_week={{flow_variable.currentweek}}^program_day={{39986f24-8ca7-4a35-947d-ca2844129769.item.select_program_day}}^short_description={{d8e1bd1c-f773-49f9-93af-ad7ad7273066.calcdays}}^description={{d8e1bd1c-f773-49f9-93af-ad7ad7273066.totaldays}}</value>
     </sys_element_mapping>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=a0a8f2558356521038eaf855eeaad3bd"/>
-    <sys_hub_alias_mapping action="delete_multiple" query="source_id=a0a8f2558356521038eaf855eeaad3bd"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=80e85c0f8356521038eaf855eeaad35e"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=80e85c0f8356521038eaf855eeaad35e"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -479,15 +404,15 @@
         <display_text/>
         <flow display_value="Gym Client Program Creation">4f1038918316121038eaf855eeaad318</flow>
         <order>1</order>
-        <parent_ui_id/>
+        <parent_ui_id>9b4aa344-246c-4baa-b7d2-748bba660c7f</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-12-05 04:24:29</sys_created_on>
         <sys_id>e01c4ed983de121038eaf855eeaad31e</sys_id>
-        <sys_mod_count>58</sys_mod_count>
+        <sys_mod_count>492</sys_mod_count>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:31:38</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:11:42</sys_updated_on>
         <ui_id>97a8dd50-681f-41e1-be14-8e0225b3246f</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e01c4ed983de121038eaf855eeaad31e"/>
@@ -558,8 +483,152 @@
     </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=e01c4ed983de121038eaf855eeaad31e"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=e01c4ed983de121038eaf855eeaad31e"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
+        <attributes/>
+        <comment/>
+        <display_text/>
+        <flow display_value="Gym Client Program Creation">4f1038918316121038eaf855eeaad318</flow>
+        <order>2</order>
+        <parent_ui_id>9b4aa344-246c-4baa-b7d2-748bba660c7f</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-10 05:37:22</sys_created_on>
+        <sys_id>f0bccc438316521038eaf855eeaad3f4</sys_id>
+        <sys_mod_count>66</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 09:11:42</sys_updated_on>
+        <ui_id>312444e5-f255-4a76-8eba-d6e59e4840b6</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=f0bccc438316521038eaf855eeaad3f4"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>f0bccc438316521038eaf855eeaad3f4</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-10 05:37:22</sys_created_on>
+        <sys_id>74bccc438316521038eaf855eeaad3f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 05:37:22</sys_updated_on>
+        <value>x_1533383_workout_program</value>
+        <variable display_value="Table">61e05916c31332002841b63b12d3aee4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=f0bccc438316521038eaf855eeaad3f4"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>f0bccc438316521038eaf855eeaad3f4</id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-10 05:37:22</sys_created_on>
+        <sys_id>3cbccc438316521038eaf855eeaad3f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 05:37:22</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>f0bccc438316521038eaf855eeaad3f4</id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-10 05:37:22</sys_created_on>
+        <sys_id>f0bccc438316521038eaf855eeaad3f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 05:37:22</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value>gym_client={{97a8dd50-681f-41e1-be14-8e0225b3246f.gym_client}}^enter_pt_name={{97a8dd50-681f-41e1-be14-8e0225b3246f.personal_trainer}}^program_name={{97a8dd50-681f-41e1-be14-8e0225b3246f.enter_program_name}}^start_date={{97a8dd50-681f-41e1-be14-8e0225b3246f.start_date}}^cycle_length={{97a8dd50-681f-41e1-be14-8e0225b3246f.number_of_days_in_cycle}}^number_of_weeks={{97a8dd50-681f-41e1-be14-8e0225b3246f.number_of_weeks_in_program}}</value>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=f0bccc438316521038eaf855eeaad3f4"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=f0bccc438316521038eaf855eeaad3f4"/>
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=4f1038918316121038eaf855eeaad318"/>
-    <sys_hub_flow_logic action="delete_multiple" query="flow=4f1038918316121038eaf855eeaad318^sys_idNOT IN5a366a5183d2521038eaf855eeaad37f,805203598396521038eaf855eeaad32a,845203598396521038eaf855eeaad327,c05203598396521038eaf855eeaad334,ec1c4ed983de121038eaf855eeaad321"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=4f1038918316121038eaf855eeaad318^sys_idNOT IN26e8b57a8352121038eaf855eeaad35e,3e2b2de6835e921038eaf855eeaad306,5a366a5183d2521038eaf855eeaad37f,7ee8b57a8352121038eaf855eeaad37e,805203598396521038eaf855eeaad32a,845203598396521038eaf855eeaad327"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">2ee8b57a8352121038eaf855eeaad35d</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Gym Client Program Creation">4f1038918316121038eaf855eeaad318</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Top Level Try">e9060aa2c3013010ace8b740ad40dd51</logic_definition>
+        <order>0</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-09 18:51:41</sys_created_on>
+        <sys_id>26e8b57a8352121038eaf855eeaad35e</sys_id>
+        <sys_mod_count>65</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 09:11:42</sys_updated_on>
+        <ui_id>9b4aa344-246c-4baa-b7d2-748bba660c7f</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=26e8b57a8352121038eaf855eeaad35e"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_variable_4f1038918316121038eaf855eeaad318^id=26e8b57a8352121038eaf855eeaad35e"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=26e8b57a8352121038eaf855eeaad35e"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=26e8b57a8352121038eaf855eeaad35e"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">362b2de6835e921038eaf855eeaad306</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Gym Client Program Creation">4f1038918316121038eaf855eeaad318</flow>
+        <flow_variable/>
+        <flow_variable/>
+        <flow_variables_assigned>currentweek</flow_variables_assigned>
+        <inputs/>
+        <logic_definition display_value="Set Flow Variables">4f787d1e0f9b0010ecf0cc52ff767ea0</logic_definition>
+        <order>8</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>30cc1a6d-3501-47da-bea1-0152f6017f30</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-08 23:13:08</sys_created_on>
+        <sys_id>3e2b2de6835e921038eaf855eeaad306</sys_id>
+        <sys_mod_count>144</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 09:11:42</sys_updated_on>
+        <ui_id>5b173780-ebcf-4117-bbd9-48cd9f18ce8b</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=3e2b2de6835e921038eaf855eeaad306"/>
+    <sys_element_mapping action="delete_multiple" query="id=3e2b2de6835e921038eaf855eeaad306"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>currentweek</field>
+        <id>3e2b2de6835e921038eaf855eeaad306</id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-08 23:13:08</sys_created_on>
+        <sys_id>b62b2de6835e921038eaf855eeaad309</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 08:19:13</sys_updated_on>
+        <table>var__m_sys_hub_flow_variable_4f1038918316121038eaf855eeaad318</table>
+        <value>{{fd_transform:36440502-bb51-49ae-bbc8-a2ea7c5a959d}}</value>
+    </sys_element_mapping>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=3e2b2de6835e921038eaf855eeaad306"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=3e2b2de6835e921038eaf855eeaad306"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <attributes/>
         <block display_value="">5e366a5183d2521038eaf855eeaad37e</block>
@@ -572,21 +641,21 @@
         <flow display_value="Gym Client Program Creation">4f1038918316121038eaf855eeaad318</flow>
         <flow_variable/>
         <flow_variable/>
-        <flow_variables_assigned>cyclestart,currentincrement</flow_variables_assigned>
+        <flow_variables_assigned>currentweek</flow_variables_assigned>
         <inputs/>
         <logic_definition display_value="Set Flow Variables">4f787d1e0f9b0010ecf0cc52ff767ea0</logic_definition>
         <order>3</order>
         <outputs_assigned/>
         <outputs_to_assign/>
-        <parent_ui_id/>
+        <parent_ui_id>9b4aa344-246c-4baa-b7d2-748bba660c7f</parent_ui_id>
         <sys_class_name>sys_hub_flow_logic</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-12-05 06:18:44</sys_created_on>
         <sys_id>5a366a5183d2521038eaf855eeaad37f</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>230</sys_mod_count>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:31:38</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:11:42</sys_updated_on>
         <ui_id>98d597c9-079a-43f4-b8bd-331d229c4a65</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -598,13 +667,13 @@
         <order>0</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 07:48:49</sys_created_on>
-        <sys_id>a9da7a598356521038eaf855eeaad3db</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_created_on>2024-12-08 22:44:34</sys_created_on>
+        <sys_id>90a4a162831e921038eaf855eeaad3ee</sys_id>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 07:48:49</sys_updated_on>
-        <value/>
-        <variable display_value="cycleStart">5a2936958356521038eaf855eeaad395</variable>
+        <sys_updated_on>2024-12-10 06:42:28</sys_updated_on>
+        <value>1</value>
+        <variable display_value="currentWeek">86742d22831e921038eaf855eeaad396</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=5a366a5183d2521038eaf855eeaad37f"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
@@ -620,6 +689,18 @@
         <value>{{97a8dd50-681f-41e1-be14-8e0225b3246f.number_of_weeks_in_program}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>currentweek</field>
+        <id>5a366a5183d2521038eaf855eeaad37f</id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-08 22:44:34</sys_created_on>
+        <sys_id>1ca4a162831e921038eaf855eeaad3ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-08 22:44:34</sys_updated_on>
+        <table>var__m_sys_hub_flow_variable_4f1038918316121038eaf855eeaad318</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>cyclestart</field>
         <id>5a366a5183d2521038eaf855eeaad37f</id>
         <sys_created_by>aderbyshire</sys_created_by>
@@ -631,8 +712,83 @@
         <table>var__m_sys_hub_flow_variable_4f1038918316121038eaf855eeaad318</table>
         <value>{{97a8dd50-681f-41e1-be14-8e0225b3246f.start_date}}</value>
     </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>lastweek</field>
+        <id>5a366a5183d2521038eaf855eeaad37f</id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-08 22:53:55</sys_created_on>
+        <sys_id>19c6a566831e921038eaf855eeaad396</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-08 22:53:55</sys_updated_on>
+        <table>var__m_sys_hub_flow_variable_4f1038918316121038eaf855eeaad318</table>
+        <value>{{fd_transform:bf0d59e8-d21b-40aa-9a30-37a7b690e4fb}}</value>
+    </sys_element_mapping>
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=5a366a5183d2521038eaf855eeaad37f"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=5a366a5183d2521038eaf855eeaad37f"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">bae8b57a8352121038eaf855eeaad37e</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Gym Client Program Creation">4f1038918316121038eaf855eeaad318</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Top Level Catch">35d60003e6022010a5e40cdd1254dd23</logic_definition>
+        <order>10</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-09 18:51:42</sys_created_on>
+        <sys_id>7ee8b57a8352121038eaf855eeaad37e</sys_id>
+        <sys_mod_count>76</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 09:11:42</sys_updated_on>
+        <ui_id>5def5408-246b-4b45-8bcc-860fe73d903d</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=7ee8b57a8352121038eaf855eeaad37e"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>7ee8b57a8352121038eaf855eeaad37e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-09 18:51:42</sys_created_on>
+        <sys_id>36e8b57a8352121038eaf855eeaad382</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-09 18:51:42</sys_updated_on>
+        <value>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"4adfb7bc-9d67-498d-88d0-8d6c3d584fed\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</value>
+        <variable display_value="Error Status">0f72a5a25b132010b61ea2013781c749</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>7ee8b57a8352121038eaf855eeaad37e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-09 18:51:42</sys_created_on>
+        <sys_id>3ee8b57a8352121038eaf855eeaad382</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-09 18:51:42</sys_updated_on>
+        <value>1</value>
+        <variable display_value="enabled">dd70187cc36e20105553b740ad40dddc</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_variable_4f1038918316121038eaf855eeaad318^id=7ee8b57a8352121038eaf855eeaad37e"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_35d60003e6022010a5e40cdd1254dd23^id=7ee8b57a8352121038eaf855eeaad37e"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=7ee8b57a8352121038eaf855eeaad37e"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=7ee8b57a8352121038eaf855eeaad37e"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <attributes/>
         <block display_value="">cc5203598396521038eaf855eeaad329</block>
@@ -656,10 +812,10 @@
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-12-05 08:21:28</sys_created_on>
         <sys_id>805203598396521038eaf855eeaad32a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>217</sys_mod_count>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:31:38</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:11:42</sys_updated_on>
         <ui_id>39986f24-8ca7-4a35-947d-ca2844129769</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -699,15 +855,15 @@
         <order>4</order>
         <outputs_assigned/>
         <outputs_to_assign/>
-        <parent_ui_id/>
+        <parent_ui_id>9b4aa344-246c-4baa-b7d2-748bba660c7f</parent_ui_id>
         <sys_class_name>sys_hub_flow_logic</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-12-05 08:21:28</sys_created_on>
         <sys_id>845203598396521038eaf855eeaad327</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>218</sys_mod_count>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:31:38</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:11:42</sys_updated_on>
         <ui_id>30cc1a6d-3501-47da-bea1-0152f6017f30</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -721,10 +877,10 @@
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-12-05 08:31:38</sys_created_on>
         <sys_id>7ca4439d8396521038eaf855eeaad348</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:31:38</sys_updated_on>
-        <value>Do until 0</value>
+        <sys_updated_on>2024-12-09 00:59:13</sys_updated_on>
+        <value>Do until last Week reached+. </value>
         <variable display_value="Condition Label">bda2cb0473031300612c273ffff6a750</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_variable_4f1038918316121038eaf855eeaad318^id=845203598396521038eaf855eeaad327"/>
@@ -735,11 +891,11 @@
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-12-05 08:31:38</sys_created_on>
         <sys_id>f8a4439d8396521038eaf855eeaad348</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:31:38</sys_updated_on>
+        <sys_updated_on>2024-12-10 06:30:33</sys_updated_on>
         <table>var__m_sys_hub_flow_logic_input_eaeb040687210300e6c2c88fc0e3ec89</table>
-        <value>{{flow_variable.currentincrement}}=0</value>
+        <value>{{flow_variable.currentweek}}=25^NQ{{flow_variable.currentweek}}={{312444e5-f255-4a76-8eba-d6e59e4840b6.record.number_of_weeks}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>condition_name</field>
@@ -755,124 +911,159 @@
     </sys_element_mapping>
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=845203598396521038eaf855eeaad327"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=845203598396521038eaf855eeaad327"/>
-    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
-        <block display_value="">005203598396521038eaf855eeaad334</block>
-        <comment/>
-        <connected_to/>
-        <decision_table/>
-        <decision_table_inputs/>
-        <display_text/>
-        <extended_inputs/>
-        <flow display_value="Gym Client Program Creation">4f1038918316121038eaf855eeaad318</flow>
-        <flow_variable/>
-        <flow_variable/>
-        <flow_variables_assigned>currentincrement</flow_variables_assigned>
-        <inputs/>
-        <logic_definition display_value="Set Flow Variables">4f787d1e0f9b0010ecf0cc52ff767ea0</logic_definition>
-        <order>7</order>
-        <outputs_assigned/>
-        <outputs_to_assign/>
-        <parent_ui_id>30cc1a6d-3501-47da-bea1-0152f6017f30</parent_ui_id>
-        <sys_class_name>sys_hub_flow_logic</sys_class_name>
-        <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 08:21:28</sys_created_on>
-        <sys_id>c05203598396521038eaf855eeaad334</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
-        <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:31:38</sys_updated_on>
-        <ui_id>6eebc4ba-bff9-481b-8b4c-edad2dff3984</ui_id>
-        <workflow_inputs/>
-        <workflow_reference/>
-    </sys_hub_flow_logic>
-    <sys_variable_value action="delete_multiple" query="document_key=c05203598396521038eaf855eeaad334"/>
-    <sys_element_mapping action="delete_multiple" query="id=c05203598396521038eaf855eeaad334"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>currentincrement</field>
-        <id>c05203598396521038eaf855eeaad334</id>
-        <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 08:21:28</sys_created_on>
-        <sys_id>8c5203598396521038eaf855eeaad336</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:21:28</sys_updated_on>
-        <table>var__m_sys_hub_flow_variable_4f1038918316121038eaf855eeaad318</table>
-        <value>{{fd_transform:75f69d33-7840-4496-91e4-b3de6d6dd44f}}</value>
-    </sys_element_mapping>
-    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=c05203598396521038eaf855eeaad334"/>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=c05203598396521038eaf855eeaad334"/>
-    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <attributes/>
-        <block display_value="">a41c4ed983de121038eaf855eeaad321</block>
-        <comment/>
-        <connected_to/>
-        <decision_table/>
-        <decision_table_inputs/>
-        <display_text/>
-        <extended_inputs/>
-        <flow display_value="Gym Client Program Creation">4f1038918316121038eaf855eeaad318</flow>
-        <flow_variable/>
-        <flow_variables_assigned/>
-        <inputs/>
-        <logic_definition display_value="For Each">098e1dc5c3e232002841b63b12d3ae33</logic_definition>
-        <order>9</order>
-        <outputs_assigned/>
-        <outputs_to_assign/>
-        <parent_ui_id/>
-        <sys_class_name>sys_hub_flow_logic</sys_class_name>
-        <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 04:24:29</sys_created_on>
-        <sys_id>ec1c4ed983de121038eaf855eeaad321</sys_id>
-        <sys_mod_count>35</sys_mod_count>
-        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
-        <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:31:38</sys_updated_on>
-        <ui_id>95c42292-735a-4386-a1f7-aa39adc53be2</ui_id>
-        <workflow_inputs/>
-        <workflow_reference/>
-    </sys_hub_flow_logic>
-    <sys_variable_value action="delete_multiple" query="document_key=ec1c4ed983de121038eaf855eeaad321"/>
-    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_variable_4f1038918316121038eaf855eeaad318^id=ec1c4ed983de121038eaf855eeaad321"/>
-    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_098e1dc5c3e232002841b63b12d3ae33^id=ec1c4ed983de121038eaf855eeaad321"/>
-    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=ec1c4ed983de121038eaf855eeaad321"/>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=ec1c4ed983de121038eaf855eeaad321"/>
-    <sys_hub_pill_compound action="delete_multiple" query="attached_to=4f1038918316121038eaf855eeaad318^sys_idNOT IN085203598396521038eaf855eeaad344,cc5203598396521038eaf855eeaad343"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=4f1038918316121038eaf855eeaad318^sys_idNOT IN37b1f087831e521038eaf855eeaad37c,572d7b728392521038eaf855eeaad38b,9f2d7b728392521038eaf855eeaad38a,fbb1f087831e521038eaf855eeaad37c"/>
     <sys_hub_pill_compound action="INSERT_OR_UPDATE">
         <attached_to>4f1038918316121038eaf855eeaad318</attached_to>
         <extra_info/>
-        <order>1</order>
-        <prescription/>
-        <source_ui_id>75f69d33-7840-4496-91e4-b3de6d6dd44f</source_ui_id>
+        <order>0</order>
+        <prescription>{{flow_variable.currentweek}}</prescription>
+        <source_ui_id/>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 08:21:29</sys_created_on>
-        <sys_id>085203598396521038eaf855eeaad344</sys_id>
+        <sys_created_on>2024-12-10 08:19:13</sys_created_on>
+        <sys_id>37b1f087831e521038eaf855eeaad37c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:21:29</sys_updated_on>
-        <transform_compositions>[{"id":"fbd73006c303201027d44077d840dd2b","transformType":null,"transformDefinition":null,"order":0,"parameters":[{"id":null,"name":"number","label":"Number","order":0,"attributes":{},"value":"1","type":"int","defaultValue":"","typeLabel":null,"mandatory":true,"choices":[]}]}]</transform_compositions>
-        <transform_definition_id display_value="subtract">eeb68171c303201027d44077d840dd57</transform_definition_id>
-        <ui_id>85c0e43e-6682-43e8-a042-594b93697f60</ui_id>
+        <sys_updated_on>2024-12-10 08:19:13</sys_updated_on>
+        <transform_compositions>[]</transform_compositions>
+        <transform_definition_id/>
+        <ui_id>36440502-bb51-49ae-bbc8-a2ea7c5a959d</ui_id>
     </sys_hub_pill_compound>
     <sys_hub_pill_compound action="INSERT_OR_UPDATE">
         <attached_to>4f1038918316121038eaf855eeaad318</attached_to>
         <extra_info/>
         <order>0</order>
-        <prescription>{{flow_variable.currentincrement}}</prescription>
+        <prescription>{{action.inputweek}}</prescription>
         <source_ui_id/>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 08:21:29</sys_created_on>
-        <sys_id>cc5203598396521038eaf855eeaad343</sys_id>
+        <sys_created_on>2024-12-10 04:29:32</sys_created_on>
+        <sys_id>572d7b728392521038eaf855eeaad38b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:21:29</sys_updated_on>
+        <sys_updated_on>2024-12-10 04:29:32</sys_updated_on>
         <transform_compositions>[]</transform_compositions>
         <transform_definition_id/>
-        <ui_id>75f69d33-7840-4496-91e4-b3de6d6dd44f</ui_id>
+        <ui_id>ebe006ac-dc72-48fa-b036-b6334f986f8c</ui_id>
     </sys_hub_pill_compound>
-    <sys_hub_flow_variable action="delete_multiple" query="model=4f1038918316121038eaf855eeaad318^sys_idNOT IN4814761d8316521038eaf855eeaad334,5a2936958356521038eaf855eeaad395,cc52cf198396521038eaf855eeaad3e5"/>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>4f1038918316121038eaf855eeaad318</attached_to>
+        <extra_info/>
+        <order>1</order>
+        <prescription/>
+        <source_ui_id>ebe006ac-dc72-48fa-b036-b6334f986f8c</source_ui_id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-10 04:29:32</sys_created_on>
+        <sys_id>9f2d7b728392521038eaf855eeaad38a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 04:29:32</sys_updated_on>
+        <transform_compositions>[{"id":"1c07dd02c303201027d44077d840dd07","transformType":null,"transformDefinition":null,"order":0,"parameters":[{"id":null,"name":"number","label":"Number","order":0,"attributes":{},"value":"7","type":"int","defaultValue":"","typeLabel":null,"mandatory":true,"choices":[]}]}]</transform_compositions>
+        <transform_definition_id display_value="multiply">28c65502c303201027d44077d840dddd</transform_definition_id>
+        <ui_id>aae904fc-7674-4ded-8901-53426c748b1f</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>4f1038918316121038eaf855eeaad318</attached_to>
+        <extra_info/>
+        <order>1</order>
+        <prescription/>
+        <source_ui_id>36440502-bb51-49ae-bbc8-a2ea7c5a959d</source_ui_id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-10 08:19:13</sys_created_on>
+        <sys_id>fbb1f087831e521038eaf855eeaad37c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 08:19:13</sys_updated_on>
+        <transform_compositions>[{"id":"06190ffa23a220103a3339e1d7bf65f9","transformType":null,"transformDefinition":null,"order":0,"parameters":[{"id":null,"name":"number","label":"Number","order":0,"attributes":{},"value":"1","type":"int","defaultValue":"","typeLabel":null,"mandatory":true,"choices":[]}]}]</transform_compositions>
+        <transform_definition_id display_value="add">50980bfa23a220103a3339e1d7bf6510</transform_definition_id>
+        <ui_id>63c9e363-e9fb-4ead-915f-0c2010818405</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_flow_variable action="delete_multiple" query="model=4f1038918316121038eaf855eeaad318^sys_idNOT IN0e742d22831e921038eaf855eeaad39c,86742d22831e921038eaf855eeaad396"/>
+    <sys_hub_flow_variable action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=9f94972d-337a-4183-9c37-c879ea21b0ad</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>lastweek</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>lastWeek</label>
+        <mandatory>false</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Gym Client Program Creation">4f1038918316121038eaf855eeaad318</model>
+        <model_id>4f1038918316121038eaf855eeaad318</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_variable_4f1038918316121038eaf855eeaad318</name>
+        <next_element/>
+        <order>0</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_variable</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-08 22:43:52</sys_created_on>
+        <sys_id>0e742d22831e921038eaf855eeaad39c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-08 22:43:52</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_variable>
     <sys_hub_flow_variable action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -901,7 +1092,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>currentincrement</element>
+        <element>currentweek</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -910,7 +1101,7 @@
         <help/>
         <hint/>
         <internal_type display_value="String">string</internal_type>
-        <label>currentIncrement</label>
+        <label>currentWeek</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
         <model display_value="Gym Client Program Creation">4f1038918316121038eaf855eeaad318</model>
@@ -934,8 +1125,8 @@
         <staged>false</staged>
         <sys_class_name>sys_hub_flow_variable</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 07:19:13</sys_created_on>
-        <sys_id>4814761d8316521038eaf855eeaad334</sys_id>
+        <sys_created_on>2024-12-08 22:43:52</sys_created_on>
+        <sys_id>86742d22831e921038eaf855eeaad396</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package/>
@@ -943,173 +1134,7 @@
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_update_name/>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 07:19:13</sys_updated_on>
-        <table_reference>false</table_reference>
-        <text_index>false</text_index>
-        <unique>false</unique>
-        <use_dependent_field>false</use_dependent_field>
-        <use_dynamic_default>false</use_dynamic_default>
-        <use_reference_qualifier>simple</use_reference_qualifier>
-        <virtual>false</virtual>
-        <virtual_type>script</virtual_type>
-        <widget/>
-        <write_roles/>
-        <xml_view>false</xml_view>
-    </sys_hub_flow_variable>
-    <sys_hub_flow_variable action="INSERT_OR_UPDATE">
-        <active>true</active>
-        <array>false</array>
-        <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=glide_date_time,uiTypeLabel=Date/Time,uiUniqueId=f5e2f94b-a3be-47a7-86af-e76aa749e9df</attributes>
-        <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
-        <choice_field/>
-        <choice_table/>
-        <column_label/>
-        <comments/>
-        <create_roles/>
-        <default_value/>
-        <defaultsort/>
-        <delete_roles/>
-        <dependent/>
-        <dependent_on_field/>
-        <display>false</display>
-        <dynamic_creation>false</dynamic_creation>
-        <dynamic_creation_script/>
-        <dynamic_default_value/>
-        <dynamic_ref_qual/>
-        <element>cyclestart</element>
-        <element_reference>false</element_reference>
-        <foreign_database/>
-        <formula/>
-        <function_definition/>
-        <function_field>false</function_field>
-        <help/>
-        <hint/>
-        <internal_type display_value="">glide_date_time</internal_type>
-        <label>cycleStart</label>
-        <mandatory>false</mandatory>
-        <max_length>40</max_length>
-        <model display_value="Gym Client Program Creation">4f1038918316121038eaf855eeaad318</model>
-        <model_id>4f1038918316121038eaf855eeaad318</model_id>
-        <model_table>sys_hub_flow</model_table>
-        <name>var__m_sys_hub_flow_variable_4f1038918316121038eaf855eeaad318</name>
-        <next_element/>
-        <order>0</order>
-        <primary>false</primary>
-        <read_only>false</read_only>
-        <read_roles/>
-        <reference/>
-        <reference_cascade_rule/>
-        <reference_floats>false</reference_floats>
-        <reference_key/>
-        <reference_qual/>
-        <reference_qual_condition/>
-        <reference_type/>
-        <sizeclass/>
-        <spell_check>false</spell_check>
-        <staged>false</staged>
-        <sys_class_name>sys_hub_flow_variable</sys_class_name>
-        <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 07:41:29</sys_created_on>
-        <sys_id>5a2936958356521038eaf855eeaad395</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
-        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
-        <sys_update_name/>
-        <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 07:41:29</sys_updated_on>
-        <table_reference>false</table_reference>
-        <text_index>false</text_index>
-        <unique>false</unique>
-        <use_dependent_field>false</use_dependent_field>
-        <use_dynamic_default>false</use_dynamic_default>
-        <use_reference_qualifier>simple</use_reference_qualifier>
-        <virtual>false</virtual>
-        <virtual_type>script</virtual_type>
-        <widget/>
-        <write_roles/>
-        <xml_view>false</xml_view>
-    </sys_hub_flow_variable>
-    <sys_hub_flow_variable action="INSERT_OR_UPDATE">
-        <active>true</active>
-        <array>false</array>
-        <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=glide_date_time,uiTypeLabel=Date/Time,uiUniqueId=80b19ab8-7967-4788-89a4-d266075eeb94</attributes>
-        <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
-        <choice_field/>
-        <choice_table/>
-        <column_label/>
-        <comments/>
-        <create_roles/>
-        <default_value/>
-        <defaultsort/>
-        <delete_roles/>
-        <dependent/>
-        <dependent_on_field/>
-        <display>false</display>
-        <dynamic_creation>false</dynamic_creation>
-        <dynamic_creation_script/>
-        <dynamic_default_value/>
-        <dynamic_ref_qual/>
-        <element>currentroutineday</element>
-        <element_reference>false</element_reference>
-        <foreign_database/>
-        <formula/>
-        <function_definition/>
-        <function_field>false</function_field>
-        <help/>
-        <hint/>
-        <internal_type display_value="">glide_date_time</internal_type>
-        <label>currentRoutineDay</label>
-        <mandatory>false</mandatory>
-        <max_length>40</max_length>
-        <model display_value="Gym Client Program Creation">4f1038918316121038eaf855eeaad318</model>
-        <model_id>4f1038918316121038eaf855eeaad318</model_id>
-        <model_table>sys_hub_flow</model_table>
-        <name>var__m_sys_hub_flow_variable_4f1038918316121038eaf855eeaad318</name>
-        <next_element/>
-        <order>0</order>
-        <primary>false</primary>
-        <read_only>false</read_only>
-        <read_roles/>
-        <reference/>
-        <reference_cascade_rule/>
-        <reference_floats>false</reference_floats>
-        <reference_key/>
-        <reference_qual/>
-        <reference_qual_condition/>
-        <reference_type/>
-        <sizeclass/>
-        <spell_check>false</spell_check>
-        <staged>false</staged>
-        <sys_class_name>sys_hub_flow_variable</sys_class_name>
-        <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 08:21:28</sys_created_on>
-        <sys_id>cc52cf198396521038eaf855eeaad3e5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
-        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
-        <sys_update_name/>
-        <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 08:21:28</sys_updated_on>
+        <sys_updated_on>2024-12-08 22:43:52</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1184,7 +1209,7 @@
         <copied_from_name/>
         <description/>
         <internal_name>testing_program_creation</internal_name>
-        <label_cache>[{"name":"95c42292-735a-4386-a1f7-aa39adc53be2.item.routine","label":"2 - For Each➛Select Routine Day➛Routine","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.select_routine_day","label":"1 - Get Catalog Variables➛select_routine_day","reference":"","reference_display":"select_routine_day","type":"array.object","base_type":"array.object","attributes":{"child_label":"Select Routine Day","child_type_label":"Object","child_type":"object","child_name":"select_routine_day"}},{"name":"Service Catalog_1.request_item","label":"Trigger - Service Catalog➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"default_search_field":"number"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.gym_client","label":"1 - Get Catalog Variables➛gym_client","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.personal_trainer","label":"1 - Get Catalog Variables➛personal_trainer","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.enter_program_name","label":"1 - Get Catalog Variables➛enter_program_name","reference":"","reference_display":"enter_program_name","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}}]</label_cache>
+        <label_cache>[{"name":"d8e1bd1c-f773-49f9-93af-ad7ad7273066.totaldays","label":"6 - Calculate Schedule Date➛totalDays","reference_display":"totalDays","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"de63eedc-96af-4516-9901-37cadd6e80eb"}},{"name":"d8e1bd1c-f773-49f9-93af-ad7ad7273066.variable","label":"6 - Calculate Schedule Date➛calcTotalDays","reference_display":"calcTotalDays","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"a9c5d3e8-e130-4dbd-bccd-f2ee5c0f4308"}},{"name":"d8e1bd1c-f773-49f9-93af-ad7ad7273066.calcdays","label":"6 - Calculate Schedule Date➛calcDays","reference_display":"calcDays","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"82c5bf23-ed8d-465e-bd8e-3c1753cea43d"}},{"name":"312444e5-f255-4a76-8eba-d6e59e4840b6.record","label":"2 - Create Record➛Program Record","reference":"x_1533383_workout_program","reference_display":"Program","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"flow_variable.lastweek","label":"Flow Variables➛lastWeek","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"9f94972d-337a-4183-9c37-c879ea21b0ad"}},{"name":"flow_variable.currentweek","label":"Flow Variables➛currentWeek","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"33036b27-2659-4e1f-851d-c8418759fd6f"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.enter_program_name","label":"1 - Get Catalog Variables➛enter_program_name","reference":"","reference_display":"enter_program_name","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.personal_trainer","label":"1 - Get Catalog Variables➛personal_trainer","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.gym_client","label":"1 - Get Catalog Variables➛gym_client","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"Service Catalog_1.request_item","label":"Trigger - Service Catalog➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"default_search_field":"number"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.select_routine_day","label":"1 - Get Catalog Variables➛select_routine_day","reference":"","reference_display":"select_routine_day","type":"array.object","base_type":"array.object","attributes":{"child_label":"Select Routine Day","child_type_label":"Object","child_type":"object","child_name":"select_routine_day"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.number_of_weeks_in_program","label":"1 - Get Catalog Variables➛number_of_weeks_in_program","reference":"","reference_display":"number_of_weeks_in_program","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.start_date","label":"1 - Get Catalog Variables➛start_date","reference":"","reference_display":"start_date","type":"glide_date","base_type":"glide_date","attributes":{"catalogType":"9","catalogTypeLabel":"Date"}},{"name":"97a8dd50-681f-41e1-be14-8e0225b3246f.number_of_days_in_cycle","label":"1 - Get Catalog Variables➛number_of_days_in_cycle","reference":"","reference_display":"number_of_days_in_cycle","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"39986f24-8ca7-4a35-947d-ca2844129769.item.routine","label":"5 - For Each➛Select Routine Day➛Routine","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"flow_variable.currentincrement","label":"Flow Variables➛currentIncrement","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"33036b27-2659-4e1f-851d-c8418759fd6f"}},{"name":"39986f24-8ca7-4a35-947d-ca2844129769.item.select_program_day","label":"5 - For Each➛Select Routine Day➛Select Program Day","reference":"","reference_display":"","type":"choice","base_type":"choice","column_name":"","choices":[{"label":"Day 1","value":"1","order":100.0},{"label":"Day 2","value":"2","order":100.0},{"label":"Day 3","value":"3","order":100.0},{"label":"Day 4","value":"4","order":100.0},{"label":"Day 5","value":"5","order":100.0},{"label":"Day 6","value":"6","order":100.0},{"label":"Day 7","value":"7","order":100.0},{"label":"Day 8","value":"8","order":100.0},{"label":"Day 9","value":"9","order":100.0},{"label":"Day 10","value":"10","order":100.0}],"attributes":{"catalogType":"5","catalogTypeLabel":"Select Box"}},{"name":"312444e5-f255-4a76-8eba-d6e59e4840b6.record.number_of_weeks","label":"2 - Create Record➛Program Record➛Number of Weeks","reference":"","reference_display":"Number of Weeks","type":"string_full_utf8","base_type":"string_full_utf8","parent_table_name":"x_1533383_workout_program","column_name":"number_of_weeks"},{"name":"312444e5-f255-4a76-8eba-d6e59e4840b6.record.cycle_length","label":"2 - Create Record➛Program Record➛Cycle Length","reference":"","reference_display":"Cycle Length","type":"string","base_type":"string","parent_table_name":"x_1533383_workout_program","column_name":"cycle_length"}]</label_cache>
         <master>true</master>
         <name>Gym Client Program Creation</name>
         <natlang/>
@@ -1201,7 +1226,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7f0e455d83d6121038eaf855eeaad30d</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>74</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -1209,7 +1234,7 @@
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_update_name/>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:59:23</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:11:40</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=7f0e455d83d6121038eaf855eeaad30d"/>
@@ -1224,10 +1249,10 @@
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-12-05 00:33:25</sys_created_on>
         <sys_id>f3279151835a121038eaf855eeaad3e2</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>218</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:59:23</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:11:41</sys_updated_on>
         <trigger_definition display_value="Service Catalog">c43a1011c36813002841b63b12d3ae15</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -1312,14 +1337,14 @@
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-12-04 23:53:33</sys_created_on>
         <sys_id>3f0e455d83d6121038eaf855eeaad337</sys_id>
-        <sys_mod_count>36</sys_mod_count>
+        <sys_mod_count>312</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_update_name/>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:59:22</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:11:39</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1396,14 +1421,14 @@
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-12-05 00:33:25</sys_created_on>
         <sys_id>73279151835a121038eaf855eeaad3cd</sys_id>
-        <sys_mod_count>17</sys_mod_count>
+        <sys_mod_count>155</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_update_name/>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:59:22</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:11:39</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1419,7 +1444,7 @@
     <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=73279151835a121038eaf855eeaad3cd"/>
     <sys_hub_flow_output action="delete_multiple" query="model=7f0e455d83d6121038eaf855eeaad30d"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=7f0e455d83d6121038eaf855eeaad30d"/>
-    <sys_hub_action_instance action="delete_multiple" query="flow=7f0e455d83d6121038eaf855eeaad30d^sys_idNOT IN42e31e1d8312521038eaf855eeaad33e,73dc0a5d83de121038eaf855eeaad313,f7dc0a5d83de121038eaf855eeaad30a"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=7f0e455d83d6121038eaf855eeaad30d^sys_idNOT IN48cc04838316521038eaf855eeaad35f,4a09a8cb831a521038eaf855eeaad372,c3e8104f8356521038eaf855eeaad383,f7dc0a5d83de121038eaf855eeaad30a"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -1429,60 +1454,124 @@
         <comment/>
         <display_text/>
         <flow display_value="Gym Client Program Creation">7f0e455d83d6121038eaf855eeaad30d</flow>
-        <order>4</order>
-        <parent_ui_id/>
+        <order>2</order>
+        <parent_ui_id>9b4aa344-246c-4baa-b7d2-748bba660c7f</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 04:58:43</sys_created_on>
-        <sys_id>42e31e1d8312521038eaf855eeaad33e</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_created_on>2024-12-10 05:37:35</sys_created_on>
+        <sys_id>48cc04838316521038eaf855eeaad35f</sys_id>
+        <sys_mod_count>56</sys_mod_count>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:59:23</sys_updated_on>
-        <ui_id>e295e5be-1303-4faf-aa8c-5b987ac9e520</ui_id>
+        <sys_updated_on>2024-12-10 09:11:40</sys_updated_on>
+        <ui_id>312444e5-f255-4a76-8eba-d6e59e4840b6</ui_id>
     </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=42e31e1d8312521038eaf855eeaad33e"/>
+    <sys_variable_value action="delete_multiple" query="document_key=48cc04838316521038eaf855eeaad35f"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
-        <document_key>42e31e1d8312521038eaf855eeaad33e</document_key>
+        <document_key>48cc04838316521038eaf855eeaad35f</document_key>
         <order>0</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 04:58:43</sys_created_on>
-        <sys_id>46e31e1d8312521038eaf855eeaad33f</sys_id>
+        <sys_created_on>2024-12-10 05:37:35</sys_created_on>
+        <sys_id>4ccc04838316521038eaf855eeaad360</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:58:43</sys_updated_on>
+        <sys_updated_on>2024-12-10 05:37:35</sys_updated_on>
         <value>x_1533383_workout_program</value>
         <variable display_value="Table">61e05916c31332002841b63b12d3aee4</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=42e31e1d8312521038eaf855eeaad33e"/>
+    <sys_element_mapping action="delete_multiple" query="id=48cc04838316521038eaf855eeaad35f"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table_name</field>
-        <id>42e31e1d8312521038eaf855eeaad33e</id>
+        <id>48cc04838316521038eaf855eeaad35f</id>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 04:58:43</sys_created_on>
-        <sys_id>02e31e1d8312521038eaf855eeaad33f</sys_id>
+        <sys_created_on>2024-12-10 05:37:35</sys_created_on>
+        <sys_id>08cc04838316521038eaf855eeaad360</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:58:43</sys_updated_on>
+        <sys_updated_on>2024-12-10 05:37:35</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
         <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>values</field>
-        <id>42e31e1d8312521038eaf855eeaad33e</id>
+        <id>48cc04838316521038eaf855eeaad35f</id>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 04:58:43</sys_created_on>
-        <sys_id>c2e31e1d8312521038eaf855eeaad33f</sys_id>
+        <sys_created_on>2024-12-10 05:37:35</sys_created_on>
+        <sys_id>c8cc04838316521038eaf855eeaad360</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:58:43</sys_updated_on>
+        <sys_updated_on>2024-12-10 05:37:35</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value>gym_client={{97a8dd50-681f-41e1-be14-8e0225b3246f.gym_client}}^enter_pt_name={{97a8dd50-681f-41e1-be14-8e0225b3246f.personal_trainer}}^program_name={{97a8dd50-681f-41e1-be14-8e0225b3246f.enter_program_name}}</value>
+        <value>gym_client={{97a8dd50-681f-41e1-be14-8e0225b3246f.gym_client}}^enter_pt_name={{97a8dd50-681f-41e1-be14-8e0225b3246f.personal_trainer}}^program_name={{97a8dd50-681f-41e1-be14-8e0225b3246f.enter_program_name}}^start_date={{97a8dd50-681f-41e1-be14-8e0225b3246f.start_date}}^cycle_length={{97a8dd50-681f-41e1-be14-8e0225b3246f.number_of_days_in_cycle}}^number_of_weeks={{97a8dd50-681f-41e1-be14-8e0225b3246f.number_of_weeks_in_program}}</value>
     </sys_element_mapping>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=42e31e1d8312521038eaf855eeaad33e"/>
-    <sys_hub_alias_mapping action="delete_multiple" query="source_id=42e31e1d8312521038eaf855eeaad33e"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=48cc04838316521038eaf855eeaad35f"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=48cc04838316521038eaf855eeaad35f"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Calculate Schedule Date">77c6a847831a521038eaf855eeaad39e</action_type>
+        <action_type_parent display_value="Calculate Schedule Date">34f65336835e121038eaf855eeaad333</action_type_parent>
+        <attributes/>
+        <comment/>
+        <display_text/>
+        <flow display_value="Gym Client Program Creation">7f0e455d83d6121038eaf855eeaad30d</flow>
+        <order>6</order>
+        <parent_ui_id>39986f24-8ca7-4a35-947d-ca2844129769</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-10 07:41:09</sys_created_on>
+        <sys_id>4a09a8cb831a521038eaf855eeaad372</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 09:11:40</sys_updated_on>
+        <ui_id>d8e1bd1c-f773-49f9-93af-ad7ad7273066</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=4a09a8cb831a521038eaf855eeaad372"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>4a09a8cb831a521038eaf855eeaad372</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-10 07:41:09</sys_created_on>
+        <sys_id>8e09a8cb831a521038eaf855eeaad374</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 07:41:09</sys_updated_on>
+        <value/>
+        <variable display_value="inputWeek">ffc6a847831a521038eaf855eeaad3a1</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=4a09a8cb831a521038eaf855eeaad372"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>inputweek</field>
+        <id>4a09a8cb831a521038eaf855eeaad372</id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-10 07:41:09</sys_created_on>
+        <sys_id>0a09a8cb831a521038eaf855eeaad374</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 07:41:09</sys_updated_on>
+        <table>var__m_sys_hub_action_input_77c6a847831a521038eaf855eeaad39e</table>
+        <value>{{flow_variable.currentweek}}</value>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=4a09a8cb831a521038eaf855eeaad372^sys_idNOT IN0e09a8cb831a521038eaf855eeaad373"/>
+    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <input_name>inputday</input_name>
+        <instance>4a09a8cb831a521038eaf855eeaad372</instance>
+        <referenced_table>sys_hub_action_instance</referenced_table>
+        <script>{"inputday":{"scriptActive":true,"script":"return fd_data._5__for_each.item.select_program_day;"}}</script>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-10 07:41:09</sys_created_on>
+        <sys_id>0e09a8cb831a521038eaf855eeaad373</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 07:41:09</sys_updated_on>
+    </sys_hub_input_scripts>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=4a09a8cb831a521038eaf855eeaad372"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -1492,60 +1581,60 @@
         <comment/>
         <display_text/>
         <flow display_value="Gym Client Program Creation">7f0e455d83d6121038eaf855eeaad30d</flow>
-        <order>3</order>
-        <parent_ui_id>95c42292-735a-4386-a1f7-aa39adc53be2</parent_ui_id>
+        <order>7</order>
+        <parent_ui_id>39986f24-8ca7-4a35-947d-ca2844129769</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 04:27:59</sys_created_on>
-        <sys_id>73dc0a5d83de121038eaf855eeaad313</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_created_on>2024-12-10 06:30:45</sys_created_on>
+        <sys_id>c3e8104f8356521038eaf855eeaad383</sys_id>
+        <sys_mod_count>28</sys_mod_count>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:59:23</sys_updated_on>
-        <ui_id>e3f762f1-19de-4611-9859-bf8738ac8b87</ui_id>
+        <sys_updated_on>2024-12-10 09:11:40</sys_updated_on>
+        <ui_id>27760c6d-15d5-4ac3-9510-449832e7acb5</ui_id>
     </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=73dc0a5d83de121038eaf855eeaad313"/>
+    <sys_variable_value action="delete_multiple" query="document_key=c3e8104f8356521038eaf855eeaad383"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
-        <document_key>73dc0a5d83de121038eaf855eeaad313</document_key>
+        <document_key>c3e8104f8356521038eaf855eeaad383</document_key>
         <order>0</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 04:27:59</sys_created_on>
-        <sys_id>7bdc0a5d83de121038eaf855eeaad314</sys_id>
+        <sys_created_on>2024-12-10 06:30:45</sys_created_on>
+        <sys_id>c7e8104f8356521038eaf855eeaad384</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:27:59</sys_updated_on>
+        <sys_updated_on>2024-12-10 06:30:45</sys_updated_on>
         <value>x_1533383_workout_workout</value>
         <variable display_value="Table">61e05916c31332002841b63b12d3aee4</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=73dc0a5d83de121038eaf855eeaad313"/>
+    <sys_element_mapping action="delete_multiple" query="id=c3e8104f8356521038eaf855eeaad383"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table_name</field>
-        <id>73dc0a5d83de121038eaf855eeaad313</id>
+        <id>c3e8104f8356521038eaf855eeaad383</id>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 04:27:59</sys_created_on>
-        <sys_id>37dc0a5d83de121038eaf855eeaad314</sys_id>
+        <sys_created_on>2024-12-10 06:30:45</sys_created_on>
+        <sys_id>83e8104f8356521038eaf855eeaad384</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:27:59</sys_updated_on>
+        <sys_updated_on>2024-12-10 06:30:45</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
         <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>values</field>
-        <id>73dc0a5d83de121038eaf855eeaad313</id>
+        <id>c3e8104f8356521038eaf855eeaad383</id>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 04:27:59</sys_created_on>
-        <sys_id>f7dc0a5d83de121038eaf855eeaad314</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_created_on>2024-12-10 06:30:45</sys_created_on>
+        <sys_id>47e8104f8356521038eaf855eeaad384</sys_id>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:58:43</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:11:39</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value>gym_client={{97a8dd50-681f-41e1-be14-8e0225b3246f.gym_client}}^personal_trainer={{97a8dd50-681f-41e1-be14-8e0225b3246f.personal_trainer}}^routine={{95c42292-735a-4386-a1f7-aa39adc53be2.item.routine}}</value>
+        <value>routine={{39986f24-8ca7-4a35-947d-ca2844129769.item.routine}}^gym_client={{97a8dd50-681f-41e1-be14-8e0225b3246f.gym_client}}^personal_trainer={{97a8dd50-681f-41e1-be14-8e0225b3246f.personal_trainer}}^schedule_date={{flow_variable.currentweek}}^program={{312444e5-f255-4a76-8eba-d6e59e4840b6.record}}^program_cycle_week={{flow_variable.currentweek}}^program_day={{39986f24-8ca7-4a35-947d-ca2844129769.item.select_program_day}}^short_description={{d8e1bd1c-f773-49f9-93af-ad7ad7273066.calcdays}}^description={{d8e1bd1c-f773-49f9-93af-ad7ad7273066.totaldays}}</value>
     </sys_element_mapping>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=73dc0a5d83de121038eaf855eeaad313"/>
-    <sys_hub_alias_mapping action="delete_multiple" query="source_id=73dc0a5d83de121038eaf855eeaad313"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=c3e8104f8356521038eaf855eeaad383"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=c3e8104f8356521038eaf855eeaad383"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -1556,15 +1645,15 @@
         <display_text/>
         <flow display_value="Gym Client Program Creation">7f0e455d83d6121038eaf855eeaad30d</flow>
         <order>1</order>
-        <parent_ui_id/>
+        <parent_ui_id>9b4aa344-246c-4baa-b7d2-748bba660c7f</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-12-05 04:27:59</sys_created_on>
         <sys_id>f7dc0a5d83de121038eaf855eeaad30a</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_mod_count>296</sys_mod_count>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:59:23</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:11:40</sys_updated_on>
         <ui_id>97a8dd50-681f-41e1-be14-8e0225b3246f</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f7dc0a5d83de121038eaf855eeaad30a"/>
@@ -1590,10 +1679,10 @@
         <sys_created_by>aderbyshire</sys_created_by>
         <sys_created_on>2024-12-05 04:27:59</sys_created_on>
         <sys_id>bbdc0a5d83de121038eaf855eeaad30c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:42:20</sys_updated_on>
-        <value>efe011d1831a121038eaf855eeaad3d0:item_option_new,384159d1831a121038eaf855eeaad351:item_option_new,999195d1831a121038eaf855eeaad346:item_option_new,23d15955831a121038eaf855eeaad31d:item_option_new,ba0ed085831e121038eaf855eeaad331:item_option_new_set,1d0351d5831a121038eaf855eeaad3a1:item_option_new</value>
+        <sys_updated_on>2024-12-05 10:34:09</sys_updated_on>
+        <value>efe011d1831a121038eaf855eeaad3d0:item_option_new,384159d1831a121038eaf855eeaad351:item_option_new,999195d1831a121038eaf855eeaad346:item_option_new,23d15955831a121038eaf855eeaad31d:item_option_new,1d0351d5831a121038eaf855eeaad3a1:item_option_new,3882dd95831a121038eaf855eeaad310:item_option_new,ba0ed085831e121038eaf855eeaad331:item_option_new_set</value>
         <variable display_value="Catalog Variables">7b0ba3abc31013002841b63b12d3aef7</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=f7dc0a5d83de121038eaf855eeaad30a"/>
@@ -1636,10 +1725,170 @@
     <sys_hub_input_scripts action="delete_multiple" query="instance=f7dc0a5d83de121038eaf855eeaad30a"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=f7dc0a5d83de121038eaf855eeaad30a"/>
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=7f0e455d83d6121038eaf855eeaad30d"/>
-    <sys_hub_flow_logic action="delete_multiple" query="flow=7f0e455d83d6121038eaf855eeaad30d^sys_idNOT IN73dc0a5d83de121038eaf855eeaad32e"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=7f0e455d83d6121038eaf855eeaad30d^sys_idNOT IN21f8797a8352121038eaf855eeaad387,27a02795839a521038eaf855eeaad388,6ba02795839a521038eaf855eeaad391,893bade6835e921038eaf855eeaad3d0,a9f8797a8352121038eaf855eeaad36c,afa02795839a521038eaf855eeaad38c"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <attributes/>
-        <block display_value="">a41c4ed983de121038eaf855eeaad321</block>
+        <block display_value="">bae8b57a8352121038eaf855eeaad37e</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Gym Client Program Creation">7f0e455d83d6121038eaf855eeaad30d</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Top Level Catch">35d60003e6022010a5e40cdd1254dd23</logic_definition>
+        <order>10</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-09 18:51:53</sys_created_on>
+        <sys_id>21f8797a8352121038eaf855eeaad387</sys_id>
+        <sys_mod_count>52</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 09:11:40</sys_updated_on>
+        <ui_id>5def5408-246b-4b45-8bcc-860fe73d903d</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=21f8797a8352121038eaf855eeaad387"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>21f8797a8352121038eaf855eeaad387</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-09 18:51:53</sys_created_on>
+        <sys_id>25f8797a8352121038eaf855eeaad38a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-09 18:51:53</sys_updated_on>
+        <value>{"version":"1.0","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"4adfb7bc-9d67-498d-88d0-8d6c3d584fed\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"serializationFormat":"JSON"}</value>
+        <variable display_value="Error Status">0f72a5a25b132010b61ea2013781c749</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>21f8797a8352121038eaf855eeaad387</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-09 18:51:53</sys_created_on>
+        <sys_id>e5f8797a8352121038eaf855eeaad38a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-09 18:51:53</sys_updated_on>
+        <value>1</value>
+        <variable display_value="enabled">dd70187cc36e20105553b740ad40dddc</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_variable_7f0e455d83d6121038eaf855eeaad30d^id=21f8797a8352121038eaf855eeaad387"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_35d60003e6022010a5e40cdd1254dd23^id=21f8797a8352121038eaf855eeaad387"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=21f8797a8352121038eaf855eeaad387"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=21f8797a8352121038eaf855eeaad387"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">5e366a5183d2521038eaf855eeaad37e</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Gym Client Program Creation">7f0e455d83d6121038eaf855eeaad30d</flow>
+        <flow_variable/>
+        <flow_variable/>
+        <flow_variables_assigned>currentweek</flow_variables_assigned>
+        <inputs/>
+        <logic_definition display_value="Set Flow Variables">4f787d1e0f9b0010ecf0cc52ff767ea0</logic_definition>
+        <order>3</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>9b4aa344-246c-4baa-b7d2-748bba660c7f</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-05 10:34:09</sys_created_on>
+        <sys_id>27a02795839a521038eaf855eeaad388</sys_id>
+        <sys_mod_count>146</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 09:11:40</sys_updated_on>
+        <ui_id>98d597c9-079a-43f4-b8bd-331d229c4a65</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=27a02795839a521038eaf855eeaad388"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>27a02795839a521038eaf855eeaad388</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-08 22:54:05</sys_created_on>
+        <sys_id>3fc66966831e921038eaf855eeaad399</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 06:42:42</sys_updated_on>
+        <value>1</value>
+        <variable display_value="currentWeek">27c66966831e921038eaf855eeaad373</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=27a02795839a521038eaf855eeaad388"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>currentincrement</field>
+        <id>27a02795839a521038eaf855eeaad388</id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-05 10:34:09</sys_created_on>
+        <sys_id>eba02795839a521038eaf855eeaad38b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-05 10:34:09</sys_updated_on>
+        <table>var__m_sys_hub_flow_variable_7f0e455d83d6121038eaf855eeaad30d</table>
+        <value>{{97a8dd50-681f-41e1-be14-8e0225b3246f.number_of_weeks_in_program}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>currentweek</field>
+        <id>27a02795839a521038eaf855eeaad388</id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-08 22:54:05</sys_created_on>
+        <sys_id>bbc66966831e921038eaf855eeaad399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-08 22:54:05</sys_updated_on>
+        <table>var__m_sys_hub_flow_variable_7f0e455d83d6121038eaf855eeaad30d</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>cyclestart</field>
+        <id>27a02795839a521038eaf855eeaad388</id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-05 10:34:09</sys_created_on>
+        <sys_id>afa02795839a521038eaf855eeaad38b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-05 10:34:09</sys_updated_on>
+        <table>var__m_sys_hub_flow_variable_7f0e455d83d6121038eaf855eeaad30d</table>
+        <value>{{97a8dd50-681f-41e1-be14-8e0225b3246f.start_date}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>lastweek</field>
+        <id>27a02795839a521038eaf855eeaad388</id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-08 22:54:05</sys_created_on>
+        <sys_id>f7c66966831e921038eaf855eeaad399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-08 22:54:05</sys_updated_on>
+        <table>var__m_sys_hub_flow_variable_7f0e455d83d6121038eaf855eeaad30d</table>
+        <value>{{fd_transform:bf0d59e8-d21b-40aa-9a30-37a7b690e4fb}}</value>
+    </sys_element_mapping>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=27a02795839a521038eaf855eeaad388"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=27a02795839a521038eaf855eeaad388"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">cc5203598396521038eaf855eeaad329</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -1652,40 +1901,430 @@
         <inputs/>
         <inputs/>
         <logic_definition display_value="For Each">098e1dc5c3e232002841b63b12d3ae33</logic_definition>
-        <order>2</order>
+        <order>5</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>30cc1a6d-3501-47da-bea1-0152f6017f30</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-05 10:34:09</sys_created_on>
+        <sys_id>6ba02795839a521038eaf855eeaad391</sys_id>
+        <sys_mod_count>141</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 09:11:40</sys_updated_on>
+        <ui_id>39986f24-8ca7-4a35-947d-ca2844129769</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=6ba02795839a521038eaf855eeaad391"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_variable_7f0e455d83d6121038eaf855eeaad30d^id=6ba02795839a521038eaf855eeaad391"/>
+    <sys_element_mapping action="delete_multiple" query="id=6ba02795839a521038eaf855eeaad391"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>items</field>
+        <id>6ba02795839a521038eaf855eeaad391</id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-05 10:34:09</sys_created_on>
+        <sys_id>2fa02795839a521038eaf855eeaad394</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-05 10:34:09</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_098e1dc5c3e232002841b63b12d3ae33</table>
+        <value>{{97a8dd50-681f-41e1-be14-8e0225b3246f.select_routine_day}}</value>
+    </sys_element_mapping>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=6ba02795839a521038eaf855eeaad391"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=6ba02795839a521038eaf855eeaad391"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">362b2de6835e921038eaf855eeaad306</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Gym Client Program Creation">7f0e455d83d6121038eaf855eeaad30d</flow>
+        <flow_variable/>
+        <flow_variable/>
+        <flow_variables_assigned>currentweek</flow_variables_assigned>
+        <inputs/>
+        <logic_definition display_value="Set Flow Variables">4f787d1e0f9b0010ecf0cc52ff767ea0</logic_definition>
+        <order>8</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>30cc1a6d-3501-47da-bea1-0152f6017f30</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-08 23:13:18</sys_created_on>
+        <sys_id>893bade6835e921038eaf855eeaad3d0</sys_id>
+        <sys_mod_count>94</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 09:11:40</sys_updated_on>
+        <ui_id>5b173780-ebcf-4117-bbd9-48cd9f18ce8b</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=893bade6835e921038eaf855eeaad3d0"/>
+    <sys_element_mapping action="delete_multiple" query="id=893bade6835e921038eaf855eeaad3d0"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>currentweek</field>
+        <id>893bade6835e921038eaf855eeaad3d0</id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-08 23:13:18</sys_created_on>
+        <sys_id>053bade6835e921038eaf855eeaad3d3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 08:19:28</sys_updated_on>
+        <table>var__m_sys_hub_flow_variable_7f0e455d83d6121038eaf855eeaad30d</table>
+        <value>{{fd_transform:36440502-bb51-49ae-bbc8-a2ea7c5a959d}}</value>
+    </sys_element_mapping>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=893bade6835e921038eaf855eeaad3d0"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=893bade6835e921038eaf855eeaad3d0"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">2ee8b57a8352121038eaf855eeaad35d</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Gym Client Program Creation">7f0e455d83d6121038eaf855eeaad30d</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Top Level Try">e9060aa2c3013010ace8b740ad40dd51</logic_definition>
+        <order>0</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id/>
         <sys_class_name>sys_hub_flow_logic</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 04:27:59</sys_created_on>
-        <sys_id>73dc0a5d83de121038eaf855eeaad32e</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_created_on>2024-12-09 18:51:53</sys_created_on>
+        <sys_id>a9f8797a8352121038eaf855eeaad36c</sys_id>
+        <sys_mod_count>47</sys_mod_count>
         <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:59:23</sys_updated_on>
-        <ui_id>95c42292-735a-4386-a1f7-aa39adc53be2</ui_id>
+        <sys_updated_on>2024-12-10 09:11:40</sys_updated_on>
+        <ui_id>9b4aa344-246c-4baa-b7d2-748bba660c7f</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
     </sys_hub_flow_logic>
-    <sys_variable_value action="delete_multiple" query="document_key=73dc0a5d83de121038eaf855eeaad32e"/>
-    <sys_element_mapping action="delete_multiple" query="id=73dc0a5d83de121038eaf855eeaad32e"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>items</field>
-        <id>73dc0a5d83de121038eaf855eeaad32e</id>
+    <sys_variable_value action="delete_multiple" query="document_key=a9f8797a8352121038eaf855eeaad36c"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_variable_7f0e455d83d6121038eaf855eeaad30d^id=a9f8797a8352121038eaf855eeaad36c"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=a9f8797a8352121038eaf855eeaad36c"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=a9f8797a8352121038eaf855eeaad36c"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">8c5203598396521038eaf855eeaad326</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Gym Client Program Creation">7f0e455d83d6121038eaf855eeaad30d</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <inputs/>
+        <logic_definition display_value="Do the following until">eaeb040687210300e6c2c88fc0e3ec89</logic_definition>
+        <order>4</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>9b4aa344-246c-4baa-b7d2-748bba660c7f</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
         <sys_created_by>aderbyshire</sys_created_by>
-        <sys_created_on>2024-12-05 04:27:59</sys_created_on>
-        <sys_id>b7dc0a5d83de121038eaf855eeaad331</sys_id>
+        <sys_created_on>2024-12-05 10:34:09</sys_created_on>
+        <sys_id>afa02795839a521038eaf855eeaad38c</sys_id>
+        <sys_mod_count>142</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 09:11:40</sys_updated_on>
+        <ui_id>30cc1a6d-3501-47da-bea1-0152f6017f30</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=afa02795839a521038eaf855eeaad38c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>afa02795839a521038eaf855eeaad38c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-05 10:34:09</sys_created_on>
+        <sys_id>eba02795839a521038eaf855eeaad390</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-09 00:59:22</sys_updated_on>
+        <value>Do until last Week reached+. </value>
+        <variable display_value="Condition Label">bda2cb0473031300612c273ffff6a750</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_variable_7f0e455d83d6121038eaf855eeaad30d^id=afa02795839a521038eaf855eeaad38c"/>
+    <sys_element_mapping action="delete_multiple" query="id=afa02795839a521038eaf855eeaad38c"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition</field>
+        <id>afa02795839a521038eaf855eeaad38c</id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-05 10:34:09</sys_created_on>
+        <sys_id>6ba02795839a521038eaf855eeaad390</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 06:30:46</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_eaeb040687210300e6c2c88fc0e3ec89</table>
+        <value>{{flow_variable.currentweek}}=25^NQ{{flow_variable.currentweek}}={{312444e5-f255-4a76-8eba-d6e59e4840b6.record.number_of_weeks}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition_name</field>
+        <id>afa02795839a521038eaf855eeaad38c</id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-05 10:34:09</sys_created_on>
+        <sys_id>a7a02795839a521038eaf855eeaad390</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:27:59</sys_updated_on>
-        <table>var__m_sys_hub_flow_logic_input_098e1dc5c3e232002841b63b12d3ae33</table>
-        <value>{{97a8dd50-681f-41e1-be14-8e0225b3246f.select_routine_day}}</value>
+        <sys_updated_on>2024-12-05 10:34:09</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_eaeb040687210300e6c2c88fc0e3ec89</table>
+        <value/>
     </sys_element_mapping>
-    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=73dc0a5d83de121038eaf855eeaad32e"/>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=73dc0a5d83de121038eaf855eeaad32e"/>
-    <sys_hub_pill_compound action="delete_multiple" query="attached_to=7f0e455d83d6121038eaf855eeaad30d"/>
-    <sys_hub_flow_variable action="delete_multiple" query="model=7f0e455d83d6121038eaf855eeaad30d"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=afa02795839a521038eaf855eeaad38c"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=afa02795839a521038eaf855eeaad38c"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=7f0e455d83d6121038eaf855eeaad30d^sys_idNOT IN1309c84b83d2521038eaf855eeaad3bb,23c1f487831e521038eaf855eeaad3f9,2fc1f487831e521038eaf855eeaad3f8,d309c84b83d2521038eaf855eeaad3bb"/>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>7f0e455d83d6121038eaf855eeaad30d</attached_to>
+        <extra_info/>
+        <order>1</order>
+        <prescription/>
+        <source_ui_id>ebe006ac-dc72-48fa-b036-b6334f986f8c</source_ui_id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-10 05:21:26</sys_created_on>
+        <sys_id>1309c84b83d2521038eaf855eeaad3bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 05:21:26</sys_updated_on>
+        <transform_compositions>[{"id":"1c07dd02c303201027d44077d840dd07","transformType":null,"transformDefinition":null,"order":0,"parameters":[{"id":null,"name":"number","label":"Number","order":0,"attributes":{},"value":"7","type":"int","defaultValue":"","typeLabel":null,"mandatory":true,"choices":[]}]}]</transform_compositions>
+        <transform_definition_id display_value="multiply">28c65502c303201027d44077d840dddd</transform_definition_id>
+        <ui_id>aae904fc-7674-4ded-8901-53426c748b1f</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>7f0e455d83d6121038eaf855eeaad30d</attached_to>
+        <extra_info/>
+        <order>1</order>
+        <prescription/>
+        <source_ui_id>36440502-bb51-49ae-bbc8-a2ea7c5a959d</source_ui_id>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-10 08:19:28</sys_created_on>
+        <sys_id>23c1f487831e521038eaf855eeaad3f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 08:19:28</sys_updated_on>
+        <transform_compositions>[{"id":"06190ffa23a220103a3339e1d7bf65f9","transformType":null,"transformDefinition":null,"order":0,"parameters":[{"id":null,"name":"number","label":"Number","order":0,"attributes":{},"value":"1","type":"int","defaultValue":"","typeLabel":null,"mandatory":true,"choices":[]}]}]</transform_compositions>
+        <transform_definition_id display_value="add">50980bfa23a220103a3339e1d7bf6510</transform_definition_id>
+        <ui_id>63c9e363-e9fb-4ead-915f-0c2010818405</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>7f0e455d83d6121038eaf855eeaad30d</attached_to>
+        <extra_info/>
+        <order>0</order>
+        <prescription>{{flow_variable.currentweek}}</prescription>
+        <source_ui_id/>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-10 08:19:28</sys_created_on>
+        <sys_id>2fc1f487831e521038eaf855eeaad3f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 08:19:28</sys_updated_on>
+        <transform_compositions>[]</transform_compositions>
+        <transform_definition_id/>
+        <ui_id>36440502-bb51-49ae-bbc8-a2ea7c5a959d</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>7f0e455d83d6121038eaf855eeaad30d</attached_to>
+        <extra_info/>
+        <order>0</order>
+        <prescription>{{action.inputweek}}</prescription>
+        <source_ui_id/>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-10 05:21:26</sys_created_on>
+        <sys_id>d309c84b83d2521038eaf855eeaad3bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-10 05:21:26</sys_updated_on>
+        <transform_compositions>[]</transform_compositions>
+        <transform_definition_id/>
+        <ui_id>ebe006ac-dc72-48fa-b036-b6334f986f8c</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_flow_variable action="delete_multiple" query="model=7f0e455d83d6121038eaf855eeaad30d^sys_idNOT IN27c66966831e921038eaf855eeaad36f,27c66966831e921038eaf855eeaad373"/>
+    <sys_hub_flow_variable action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=9f94972d-337a-4183-9c37-c879ea21b0ad</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>lastweek</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>lastWeek</label>
+        <mandatory>false</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Gym Client Program Creation">7f0e455d83d6121038eaf855eeaad30d</model>
+        <model_id>7f0e455d83d6121038eaf855eeaad30d</model_id>
+        <model_table>sys_hub_flow_snapshot</model_table>
+        <name>var__m_sys_hub_flow_variable_7f0e455d83d6121038eaf855eeaad30d</name>
+        <next_element/>
+        <order>0</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_variable</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-08 22:54:05</sys_created_on>
+        <sys_id>27c66966831e921038eaf855eeaad36f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-08 22:54:05</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_variable>
+    <sys_hub_flow_variable action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String,uiUniqueId=33036b27-2659-4e1f-851d-c8418759fd6f</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>currentweek</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>currentWeek</label>
+        <mandatory>false</mandatory>
+        <max_length>8000</max_length>
+        <model display_value="Gym Client Program Creation">7f0e455d83d6121038eaf855eeaad30d</model>
+        <model_id>7f0e455d83d6121038eaf855eeaad30d</model_id>
+        <model_table>sys_hub_flow_snapshot</model_table>
+        <name>var__m_sys_hub_flow_variable_7f0e455d83d6121038eaf855eeaad30d</name>
+        <next_element/>
+        <order>0</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_variable</sys_class_name>
+        <sys_created_by>aderbyshire</sys_created_by>
+        <sys_created_on>2024-12-08 22:54:05</sys_created_on>
+        <sys_id>27c66966831e921038eaf855eeaad373</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Workout Master">3b1d8e278361d21038eaf855eeaad39e</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>aderbyshire</sys_updated_by>
+        <sys_updated_on>2024-12-08 22:54:05</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_variable>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_7f0e455d83d6121038eaf855eeaad30d^sys_idNOT IN3b279151835a121038eaf855eeaad3d1,bf0e455d83d6121038eaf855eeaad33b"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>request_item</element>
@@ -1752,11 +2391,11 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>841e455d83d6121038eaf855eeaad367</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>aderbyshire</sys_updated_by>
-        <sys_updated_on>2024-12-05 04:07:20</sys_updated_on>
+        <sys_updated_on>2024-12-09 04:22:45</sys_updated_on>
         <trigger display_value="">0037d151835a121038eaf855eeaad32e</trigger>
     </sys_flow_trigger_plan>
     <sys_flow_subflow_plan action="delete_multiple" query="plan_id=4f1038918316121038eaf855eeaad318"/>

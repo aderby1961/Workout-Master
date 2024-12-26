@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="740ba2e98392d21038eaf855eeaad358" label="Membership" max_length="40" name="x_1533383_workout_membership" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Consumer Info" max_length="32" name="consumer_info" reference="csm_consumer" type="reference"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Gym Client" max_length="32" name="gym_client" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="consumer_info"/>
+        </index>
+        <index name="index2">
+            <element name="gym_client"/>
+        </index>
+    </element>
+</database>

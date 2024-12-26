@@ -23,6 +23,7 @@
         <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" dependent="body_focus" dependent_on_field="body_focus" label="Isolated Body part" max_length="40" name="isolated_body_part" type="choice" use_dependent_field="true">
             <choice/>
         </element>
+        <element attributes="encode_utf8=false" label="Machine" max_length="32" name="machine" reference="cmdb_ci" reference_qual="sys_class_name=x_1533383_workout_fitness_equipment^EQ" reference_qual_condition="sys_class_name=x_1533383_workout_fitness_equipment^EQ" type="reference"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Standard Rep" mandatory="true" max_length="255" name="standard_rep" type="string_full_utf8"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
@@ -35,6 +36,9 @@
             </choice>
         </element>
         <index name="index">
+            <element name="machine"/>
+        </index>
+        <index name="index2">
             <element name="sys_class_name"/>
         </index>
     </element>
